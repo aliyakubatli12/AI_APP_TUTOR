@@ -1,0 +1,39 @@
+import re
+import json 
+
+with open("topics/general_topics.json") as f:
+    general_topics = json.load(f)
+with open("topics/specific_topics.json") as f:
+    specific_topics = json.load(f)
+with open("topics/topic_mapping.json") as f:
+    topic_mapping = json.load(f)
+
+STOPWORDS = {
+    "a", "an", "the", "and", "or", "but",
+    "we", "you", "they", "he", "she", "it",
+    "is", "are", "was", "were", "be", "been",
+    "in", "on", "at", "to", "from", "of", "for", "with",
+    "today", "yesterday", "this", "that", "these", "those",
+    "studied", "learned", "covered", "discussed"
+}
+
+
+def looks_like_topic_list(text: str) -> bool:
+    text = text.strip()
+
+    if not text:
+        return False
+
+    parts = re.split(r'[\n,;/|]+', text)
+    parts = [p.strip() for p in parts if p.strip()]
+
+    if len(parts) < 2:
+        return False
+
+    short_count = 0
+    for part in parts:
+        word_count = len(part.split())
+        if 1 <= word_count <= 4:
+            short_count += 1
+
+    return short_count / len(parts) >= 0.8

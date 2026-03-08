@@ -1,0 +1,66 @@
+{
+  "BFS": "Graph Algorithms",
+  "DFS": "Graph Algorithms",
+  "Dijkstra": "Graph Algorithms",
+  "Bellman-Ford": "Graph Algorithms",
+  "Floyd-Warshall": "Graph Algorithms",
+  "Kruskal": "Graph Algorithms",
+  "Prim": "Graph Algorithms",
+  "Topological Sort": "Graph Algorithms",
+  "Kosaraju": "Graph Algorithms",
+  "Tarjan": "Graph Algorithms",
+
+  "Quicksort": "Sorting Algorithms",
+  "Merge Sort": "Sorting Algorithms",
+  "Heap Sort": "Sorting Algorithms",
+  "Insertion Sort": "Sorting Algorithms",
+  "Selection Sort": "Sorting Algorithms",
+  "Bubble Sort": "Sorting Algorithms",
+  "Counting Sort": "Sorting Algorithms",
+  "Radix Sort": "Sorting Algorithms",
+  "Bucket Sort": "Sorting Algorithms",
+
+  "Binary Search": "Searching Algorithms",
+  "Linear Search": "Searching Algorithms",
+
+  "Binary Tree": "Tree Data Structures",
+  "Binary Search Tree": "Tree Data Structures",
+  "AVL Tree": "Tree Data Structures",
+  "Red-Black Tree": "Tree Data Structures",
+  "B-Tree": "Tree Data Structures",
+  "B+ Tree": "Tree Data Structures",
+  "Segment Tree": "Tree Data Structures",
+  "Fenwick Tree": "Tree Data Structures",
+  "Trie": "Tree Data Structures",
+
+  "Hash Table": "Hashing",
+  "Open Addressing": "Hashing",
+  "Separate Chaining": "Hashing",
+  "Double Hashing": "Hashing",
+  "Cuckoo Hashing": "Hashing",
+
+  "Knapsack Problem": "Dynamic Programming",
+  "Longest Common Subsequence": "Dynamic Programming",
+  "Longest Increasing Subsequence": "Dynamic Programming",
+  "Matrix Chain Multiplication": "Dynamic Programming",
+  "Edit Distance": "Dynamic Programming",
+  "Coin Change": "Dynamic Programming",
+
+  "Activity Selection": "Greedy Algorithms",
+  "Huffman Coding": "Greedy Algorithms",
+  "Fractional Knapsack": "Greedy Algorithms",
+
+  "N-Queens": "Backtracking",
+  "Sudoku Solver": "Backtracking",
+  "Graph Coloring": "Backtracking",
+
+  "KMP": "String Algorithms",
+  "Rabin-Karp": "String Algorithms",
+  "Boyer-Moore": "String Algorithms",
+  "Z Algorithm": "String Algorithms",
+
+  "Maximum Flow": "Network Flow",
+  "Ford-Fulkerson": "Network Flow",
+  "Edmonds-Karp": "Network Flow",
+  "Dinic Algorithm": "Network Flow"
+}
