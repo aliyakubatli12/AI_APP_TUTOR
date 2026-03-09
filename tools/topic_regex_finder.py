@@ -26,6 +26,15 @@ def looks_like_topic_list(text: str) -> bool:
 
     parts = re.split(r'[\n,;/|]+', text)
     parts = [p.strip() for p in parts if p.strip()]
+    
+    words = re.findall(r"[a-zA-Z]+(?:'[a-zA-Z]+)?", text)
+
+    if not words:
+        return False
+
+    stopword_count = sum(1 for word in words if word.lower() in STOPWORDS)
+    if stopword_count / len(words) > 0.5:
+        return False
 
     if len(parts) < 2:
         return False
