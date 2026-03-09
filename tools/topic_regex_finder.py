@@ -18,13 +18,15 @@ STOPWORDS = {
 }
 
 
+
+
 def looks_like_topic_list(text: str) -> bool:
     text = text.strip()
 
     if not text:
         return False
 
-    parts = re.split(r'[\n,;/|]+', text)
+    parts = re.split(r'[\n;/|]+', text)
     parts = [p.strip() for p in parts if p.strip()]
     
     words = re.findall(r"[a-zA-Z]+(?:'[a-zA-Z]+)?", text)
@@ -38,7 +40,7 @@ def looks_like_topic_list(text: str) -> bool:
 
     if len(parts) < 2:
         return False
-
+  
     short_count = 0
     for part in parts:
         word_count = len(part.split())

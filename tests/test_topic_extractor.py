@@ -1,6 +1,7 @@
 from tools.topic_extractor import extract_topics
 
 tests = [
+
     "BFS\nDFS\nDynamic Programming",
     "Dijkstra",
     "Today we studied BFS, DFS, and Dijkstra's algorithm",
@@ -11,6 +12,20 @@ tests = [
     "bfs, dfs, dijkstra",
     ",,, /// |||",
     "Algorithms and Data Structures are fundamental topics",
+    "Quicksort\nMergesort\nHeapsort",
+    "Dijkstra; Bellman-Ford; Floyd-Warshall",
+    "Stack\nQueue\nLinked List",
+    "Graph Algorithms",
+    "BFS\nToday we studied DFS",
+    "BFS, DFS and Dijkstra",
+    "topics: BFS, DFS, Dijkstra",
+    "I like BFS, but DFS is also useful",
+    "We covered dynamic programming, greedy algorithms, and graph traversal",
+    "Sorting\nSearching\nGraph Algorithms",
+    "A*\nDijkstra\nBellman-Ford",
+    "Binary Search Tree\nAVL Tree\nRed Black Tree",
+    "Machine Learning\nDeep Learning\nReinforcement Learning",
+    "This week we studied stacks, queues, and heaps"
 ]
 
 print("TOTAL TESTS:", len(tests))
