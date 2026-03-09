@@ -11,7 +11,7 @@ with open("topics/topic_mapping.json") as f:
 GENERAL_TOPICS_NORM = {topic.lower(): topic for topic in GENERAL_TOPICS}
 SPECIFIC_TOPICS_NORM = {topic.lower(): topic for topic in SPECIFIC_TOPICS}
 
-def match_topics(parts: str) -> dict[str, list[str]]: # type: ignore
+def match_topics(parts: str) -> dict[str, list[str]]: 
     parts = normalize_topic(parts)
 
     specific_topics: list[str] = []

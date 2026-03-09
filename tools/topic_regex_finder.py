@@ -1,12 +1,4 @@
 import re
-import json 
-
-with open("topics/general_topics.json") as f:
-    general_topics = json.load(f)
-with open("topics/specific_topics.json") as f:
-    specific_topics = json.load(f)
-with open("topics/topic_mapping.json") as f:
-    topic_mapping = json.load(f)
 
 STOPWORDS = {
     "a", "an", "the", "and", "or", "but",

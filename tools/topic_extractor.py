@@ -1,15 +1,16 @@
 import json
-import re
 from tools.llm_client import call_llm
 from prompts.topic_prompt import build_topic_prompt
 from .topic_regex_finder import looks_like_topic_list 
+from .topic_matching import match_topics
+import re
 
 def extract_topics(raw_text: str) -> dict[str, list[str]]:
     if(looks_like_topic_list(raw_text)):
-        parts=re.split(r'[\n,;/|]+', raw_text) # type: ignore
-        topics = [p.strip() for p in parts if p.strip()] # type: ignore
         print("REGEX USED ")
-        return {"topics": list((dict.fromkeys(topics))) } # type: ignore
+        parts = re.split(r"[\n;/|]+", raw_text)
+        parts = [p.strip() for p in parts if p.strip()]
+        return match_topics(parts) # type: ignore
     else:
 
         prompt = build_topic_prompt(raw_text)
