@@ -24,7 +24,7 @@ def match_topics(parts: list[str]) -> dict[str, list[str]]:
             specific_topics.append(canonical_specific)
         
             mapped_general = TOPIC_MAPPING.get(canonical_specific)
-            if mapped_general and mapped_general not in general_topics:
+            if mapped_general is not None  and mapped_general not in general_topics:
                 general_topics.append(mapped_general)
         elif norm in GENERAL_TOPICS_NORM:
             canonical_general = GENERAL_TOPICS_NORM[norm]
