@@ -1,3 +1,9 @@
+# This prompt is created to help the LLM better understand topics.
+# It provides clear instructions, examples, and rules to ensure the output is consistent and accurate.
+# It forces the model to output two fields:
+# specific_topics (algorithms / techniques)
+# general_topics (broader CS categories)
+
 def build_topic_prompt(raw_text: str) -> str:
     return f"""
 You are an assistant that extracts computer science topics from educational text.
@@ -76,6 +82,10 @@ Text:
 ”””
 {raw_text}
 
+# raw_text is inserted here dynamically
+# This is the user input that the model must analyze
+# Example:
+# "Today we studied BFS and DFS"
 
 Return ONLY the JSON object.
 """
