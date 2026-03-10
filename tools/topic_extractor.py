@@ -1,3 +1,11 @@
+"""
+Extracts computer science topics from raw text.
+
+Uses a two-stage approach:
+1. If the text looks like a simple topic list → regex + dictionary matching.
+2. Otherwise → calls an LLM to extract topics and validates the JSON output.
+"""
+
 import json
 from tools.llm_client import call_llm
 from prompts.topic_prompt import build_topic_prompt

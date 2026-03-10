@@ -1,7 +1,14 @@
 from tools.topic_extractor import extract_topics
 
-# Test cases used to evaluate the topic extraction system
-# Each string simulates a possible user input
+"""
+Runs multiple test inputs through the topic extraction pipeline.
+
+Each string simulates a possible user input and the script prints:
+- the test number
+- the raw input
+- the extracted specific and general topics
+"""
+
 
 tests = [
 
@@ -31,29 +38,18 @@ tests = [
     "This week we studied stacks, queues, and heaps"
 ]
 
-# Print total number of test inputs
+
 print("TOTAL TESTS:", len(tests))
 
-# Iterate through all test cases
 for i, raw_text in enumerate(tests, 1):
 
-    # Show which test is running
     print(f"\n--- TEST {i} ---")
-
-    # Show type of the input (should normally be str)
     print("TYPE:", type(raw_text))
-
-    # Show the exact representation of the string
-    # Useful for debugging newline characters (\n)
     print("INPUT REPR:", repr(raw_text))
 
     try:
-        # Call the topic extraction pipeline
         result = extract_topics(raw_text)
-
-        # Print extracted topics
         print("RESULT:", result)
 
     except Exception as e:
-        # If an error occurs, print the error message
         print("ERROR:", e)

@@ -1,3 +1,8 @@
+"""
+Builds the prompt used to instruct the LLM to extract computer science topics
+from educational text and return them in a structured JSON format.
+"""
+
 # This prompt is created to help the LLM better understand topics.
 # It provides clear instructions, examples, and rules to ensure the output is consistent and accurate.
 # It forces the model to output two fields:

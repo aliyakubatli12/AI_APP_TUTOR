@@ -1,3 +1,10 @@
+"""
+Heuristic detector to determine whether a text looks like a list of topics.
+
+Uses simple signals such as stopword ratio, number of items,
+and phrase length to distinguish topic lists from normal sentences.
+"""
+
 import re
 
 # Common stopwords that usually appear in sentences
