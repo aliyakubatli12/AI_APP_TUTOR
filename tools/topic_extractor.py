@@ -40,6 +40,8 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
 
     else:
 
+        specific_topics: list[str] = []
+        general_topics: list[str] = []
         # Build prompt for the LLM
         # The prompt instructs the model to extract topics
         prompt = build_topic_prompt(raw_text)
@@ -67,9 +69,19 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
         if not isinstance(topics_json["specific_topics"], list) or not isinstance(topics_json["general_topics"], list):
             raise ValueError("'specific_topics' and 'general_topics' must be lists")
 
-        # Ensure every element inside the lists is a string
-        if not all(isinstance(item, str) for item in topics_json["specific_topics"]) or not all(isinstance(item, str) for item in topics_json["general_topics"]): # type: ignore
-            raise ValueError("All topics must be strings")
+    # Ensure every element inside the lists is a string
+    if not all(isinstance(item, str) for item in topics_json["specific_topics"]) or not all(isinstance(item, str) for item in topics_json["general_topics"]): # type: ignore
+        raise ValueError("All topics must be strings")
+    
+    specific_topics = topics_json.get("specific_topics", [])  # type: ignore
+    general_topics = topics_json.get("general_topics", [])    # type: ignore
 
-        # Return validated topic dictionary
-        return topics_json # type: ignore
+    if specific_topics and general_topics:
+        # If a topic appears in both specific_topics and general_topics, keep it only in general_topics
+        specific_topics = [
+            topic for topic in specific_topics  # type: ignore
+            if topic not in general_topics
+        ]
+
+    # Return validated topic dictionary
+    return {"specific_topics": specific_topics, "general_topics": general_topics}  # type: ignore
