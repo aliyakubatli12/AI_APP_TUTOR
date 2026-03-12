@@ -35,7 +35,7 @@ tests = [
     "A*\nDijkstra\nBellman-Ford",
     "Binary Search Tree\nAVL Tree\nRed Black Tree",
     "Machine Learning\nDeep Learning\nReinforcement Learning",
-    "This week we studied stacks, queues, and heaps"
+    
 ]
 
 

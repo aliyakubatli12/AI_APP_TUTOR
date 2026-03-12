@@ -19,7 +19,7 @@ url = "https://api.groq.com/openai/v1/chat/completions"
 payload = { # type: ignore
     "model": "llama-3.1-8b-instant",
     "messages": [
-        {"role": "user", "content": "Who is hitler?"}
+        {"role": "user", "content": "Who is Atatürk?"}
     ]
 }
 
