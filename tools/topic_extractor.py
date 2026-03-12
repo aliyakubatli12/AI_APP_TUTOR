@@ -19,7 +19,8 @@ import re
 # or
 # "Today we studied BFS and Dijkstra's algorithm"
 
-
+with open("/Users/aliyakubatli/ai_module/topics/topic_mapping.json", "r") as f:
+    topic_mapping = json.load(f)
 
 
 def extract_topics(raw_text: str) -> dict[str, list[str]]:
@@ -79,9 +80,24 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
     specific_topics = topics_json.get("specific_topics", [])  # type: ignore
     general_topics = topics_json.get("general_topics", [])    # type: ignore
 
+    specific_keys= set(topic_mapping.keys())
+    general_keys = set(topic_mapping.values())
+
+    corrected_specific_topics = []
+    corrected_general_topics = list(general_topics)  # Start with original general topics    
+   
+    #if llm puts general topic to specific topic but it is in general topics
+    for topic in specific_topics:
+        if topic in general_keys:
+            if topic not in corrected_general_topics:
+                corrected_general_topics.append(topic)
+        else:
+            corrected_specific_topics.append(topic)
+
+
     if specific_topics and general_topics:
         # If a topic appears in both specific_topics and general_topics, keep it only in general_topics
-        specific_topics = [
+        specific_topics = [ 
             topic for topic in specific_topics  # type: ignore
             if topic not in general_topics
         ]

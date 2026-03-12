@@ -4,7 +4,7 @@ from typing import Any, cast
 with open("/Users/aliyakubatli/ai_module/topics/topic_tree.json", "r") as f:
     topic_tree: dict[str, dict[str, Any]] = cast(dict[str, dict[str, Any]], json.load(f))
 
-rename_map = {
+rename_map = { # type: ignore
     "Audio Filters":           "Audio Filter Algorithms",
     "Backtracking":            "Backtracking Algorithms",
     "Bit Manipulation":        "Bit Manipulation",
@@ -52,15 +52,15 @@ rename_map = {
 }
 
 # normalize edilmiş tree
-normalized_tree = {}
+normalized_tree: dict[str, dict[str, Any]] = {}
 for old_key, specifics in topic_tree.items():
-    new_key = rename_map.get(old_key, old_key)
+    new_key = rename_map.get(old_key, old_key) # type: ignore
     if new_key is None:  # None ise atla (Docs gibi)
         continue
     normalized_tree[new_key] = specifics
 
 # specific → general mapping
-mapping = {}
+mapping: dict[str, str] = {}
 for general, specifics in normalized_tree.items():
     for specific in specifics.keys():
         mapping[specific] = general
