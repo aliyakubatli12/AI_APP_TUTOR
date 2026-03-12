@@ -9,7 +9,7 @@ matching between extracted text and known topics.
 import json 
 from .normalize_topic import normalize_topic
 
-with open("topics/general_topics.json") as f:
+with open("topics/topic_tree.json") as f:
     GENERAL_TOPICS = json.load(f)
 
 with open("topics/specific_topics.json") as f:

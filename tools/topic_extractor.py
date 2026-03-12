@@ -19,6 +19,9 @@ import re
 # or
 # "Today we studied BFS and Dijkstra's algorithm"
 
+
+
+
 def extract_topics(raw_text: str) -> dict[str, list[str]]:
 
     # If the text already looks like a topic list
@@ -82,6 +85,8 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
             topic for topic in specific_topics  # type: ignore
             if topic not in general_topics
         ]
+
+
 
     # Return validated topic dictionary
     return {"specific_topics": specific_topics, "general_topics": general_topics}  # type: ignore
