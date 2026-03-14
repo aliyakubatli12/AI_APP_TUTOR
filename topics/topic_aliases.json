@@ -1,0 +1,5617 @@
+{
+    "Butterworth Filter": [
+        "butterworth filter",
+        "butterworth-filter",
+        "butterworth_filter",
+        "butterworthfilter"
+    ],
+    "Iir Filter": [
+        "iir filter",
+        "iir-filter",
+        "iir_filter",
+        "iirfilter"
+    ],
+    "Show Response": [
+        "show response",
+        "show-response",
+        "show_response",
+        "showresponse"
+    ],
+    "All Combinations": [
+        "all combinations",
+        "all-combinations",
+        "all_combinations",
+        "allcombinations"
+    ],
+    "All Permutations": [
+        "all permutations",
+        "all-permutations",
+        "all_permutations",
+        "allpermutations"
+    ],
+    "All Subsequences": [
+        "all subsequences",
+        "all-subsequences",
+        "all_subsequences",
+        "allsubsequences"
+    ],
+    "Coloring": [
+        "coloring"
+    ],
+    "Combination Sum": [
+        "combination sum",
+        "combination-sum",
+        "combination_sum",
+        "combinationsum"
+    ],
+    "Crossword Puzzle Solver": [
+        "crossword puzzle solver",
+        "crossword-puzzle-solver",
+        "crossword_puzzle_solver",
+        "crosswordpuzzlesolver"
+    ],
+    "Generate Parentheses": [
+        "generate parentheses",
+        "generate-parentheses",
+        "generate_parentheses",
+        "generateparentheses"
+    ],
+    "Generate Parentheses Iterative": [
+        "generate parentheses iterative",
+        "generate-parentheses-iterative",
+        "generate_parentheses_iterative",
+        "generateparenthesesiterative"
+    ],
+    "Hamiltonian Cycle": [
+        "hamiltonian cycle",
+        "hamiltonian-cycle",
+        "hamiltonian_cycle",
+        "hamiltoniancycle"
+    ],
+    "Knight Tour": [
+        "knight tour",
+        "knight-tour",
+        "knight_tour",
+        "knighttour"
+    ],
+ 
+    "Match Word Pattern": [
+        "match word pattern",
+        "match-word-pattern",
+        "match_word_pattern",
+        "matchwordpattern"
+    ],
+    "Minimax": [
+        "minimax"
+    ],
+    "N Queens": [
+        "n queens",
+        "n-queens",
+        "n_queens",
+        "nqueens"
+    ],
+    "N Queens Math": [
+        "n queens math",
+        "n-queens math",
+        "n-queens-math",
+        "n_queens_math",
+        "nqueensmath"
+    ],
+    "Power Sum": [
+        "power sum",
+        "power-sum",
+        "power_sum",
+        "powersum"
+    ],
+    "Rat In Maze": [
+        "rat in maze",
+        "rat-in-maze",
+        "rat_in_maze",
+        "ratinmaze"
+    ],
+    "Sudoku": [
+        "sudoku"
+    ],
+    "Sum Of Subsets": [
+        "sum of subsets",
+        "sum-of-subsets",
+        "sum_of_subsets",
+        "sumofsubsets"
+    ],
+    "Word Break": [
+        "word break",
+        "word-break",
+        "word_break",
+        "wordbreak"
+    ],
+    "Word Ladder": [
+        "word ladder",
+        "word-ladder",
+        "word_ladder",
+        "wordladder"
+    ],
+    "Word Search": [
+        "word search",
+        "word-search",
+        "word_search",
+        "wordsearch"
+    ],
+    "Binary And Operator": [
+        "binary and operator",
+        "binary-and-operator",
+        "binary_and_operator",
+        "binaryandoperator"
+    ],
+    "Binary Coded Decimal": [
+        "bcd",
+        "binary coded decimal",
+        "binary-coded-decimal",
+        "binary_coded_decimal",
+        "binarycodeddecimal"
+    ],
+    "Binary Count Setbits": [
+        "binary count setbits",
+        "binary-count-setbits",
+        "binary_count_setbits",
+        "binarycountsetbits"
+    ],
+    "Binary Count Trailing Zeros": [
+        "binary count trailing zeros",
+        "binary-count-trailing-zeros",
+        "binary_count_trailing_zeros",
+        "binarycounttrailingzeros"
+    ],
+    "Binary Or Operator": [
+        "binary or operator",
+        "binary-or-operator",
+        "binary_or_operator",
+        "binaryoroperator"
+    ],
+    "Binary Shifts": [
+        "binary shifts",
+        "binary-shifts",
+        "binary_shifts",
+        "binaryshifts"
+    ],
+    "Binary Twos Complement": [
+        "binary twos complement",
+        "binary-twos-complement",
+        "binary_twos_complement",
+        "binarytwoscomplement"
+    ],
+    "Binary Xor Operator": [
+        "binary xor operator",
+        "binary-xor-operator",
+        "binary_xor_operator",
+        "binaryxoroperator"
+    ],
+    "Bitwise Addition Recursive": [
+        "bitwise addition recursive",
+        "bitwise-addition-recursive",
+        "bitwise_addition_recursive",
+        "bitwiseadditionrecursive"
+    ],
+    "Count 1S Brian Kernighan Method": [
+        "count 1s brian kernighan method",
+        "count-1s-brian-kernighan-method",
+        "count1sbriankernighanmethod",
+        "count_1s_brian_kernighan_method"
+    ],
+    "Count Number Of One Bits": [
+        "count number of one bits",
+        "count-number-of-one-bits",
+        "count_number_of_one_bits",
+        "countnumberofonebits"
+    ],
+    "Excess 3 Code": [
+        "excess  3 code",
+        "excess 3 code",
+        "excess-3-code",
+        "excess3code",
+        "excess_3_code"
+    ],
+    "Find Previous Power Of Two": [
+        "find previous power of two",
+        "find-previous-power-of-two",
+        "find_previous_power_of_two",
+        "findpreviouspoweroftwo"
+    ],
+    "Find Unique Number": [
+        "find unique number",
+        "find-unique-number",
+        "find_unique_number",
+        "finduniquenumber"
+    ],
+    "Gray Code Sequence": [
+        "gray code sequence",
+        "gray-code-sequence",
+        "gray_code_sequence",
+        "graycodesequence"
+    ],
+    "Highest Set Bit": [
+        "highest set bit",
+        "highest-set-bit",
+        "highest_set_bit",
+        "highestsetbit"
+    ],
+    "Index Of Rightmost Set Bit": [
+        "index of rightmost set bit",
+        "index-of-rightmost-set-bit",
+        "index_of_rightmost_set_bit",
+        "indexofrightmostsetbit"
+    ],
+    "Is Even": [
+        "is even",
+        "is-even",
+        "is_even",
+        "iseven"
+    ],
+    "Is Power Of Two": [
+        "is power of two",
+        "is-power-of-two",
+        "is_power_of_two",
+        "ispoweroftwo"
+    ],
+    "Largest Pow Of Two Le Num": [
+        "largest pow of two le num",
+        "largest-pow-of-two-le-num",
+        "largest_pow_of_two_le_num",
+        "largestpowoftwolenum"
+    ],
+    "Missing Number": [
+        "missing number",
+        "missing-number",
+        "missing_number",
+        "missingnumber"
+    ],
+    "Numbers Different Signs": [
+        "numbers different signs",
+        "numbers-different-signs",
+        "numbers_different_signs",
+        "numbersdifferentsigns"
+    ],
+    "Power Of 4": [
+        "power of  4",
+        "power of 4",
+        "power-of-4",
+        "power_of_4",
+        "powerof4"
+    ],
+    "Reverse Bits": [
+        "reverse bits",
+        "reverse-bits",
+        "reverse_bits",
+        "reversebits"
+    ],
+    "Single Bit Manipulation Operations": [
+        "single bit manipulation operations",
+        "single-bit-manipulation-operations",
+        "single_bit_manipulation_operations",
+        "singlebitmanipulationoperations"
+    ],
+    "Swap All Odd And Even Bits": [
+        "swap all odd and even bits",
+        "swap-all-odd-and-even-bits",
+        "swap_all_odd_and_even_bits",
+        "swapalloddandevenbits"
+    ],
+    "Diophantine Equation": [
+        "diophantine equation",
+        "diophantine-equation",
+        "diophantine_equation",
+        "diophantineequation"
+    ],
+    "And Gate": [
+        "and gate",
+        "and-gate",
+        "and_gate",
+        "andgate"
+    ],
+    "Imply Gate": [
+        "imply gate",
+        "imply-gate",
+        "imply_gate",
+        "implygate"
+    ],
+    "Karnaugh Map Simplification": [
+        "karnaugh map simplification",
+        "karnaugh-map-simplification",
+        "karnaugh_map_simplification",
+        "karnaughmapsimplification"
+    ],
+    "Multiplexer": [
+        "multiplexer"
+    ],
+    "Nand Gate": [
+        "nand gate",
+        "nand-gate",
+        "nand_gate",
+        "nandgate"
+    ],
+    "Nimply Gate": [
+        "nimply gate",
+        "nimply-gate",
+        "nimply_gate",
+        "nimplygate"
+    ],
+    "Nor Gate": [
+        "nor gate",
+        "nor-gate",
+        "nor_gate",
+        "norgate"
+    ],
+    "Not Gate": [
+        "not gate",
+        "not-gate",
+        "not_gate",
+        "notgate"
+    ],
+    "Or Gate": [
+        "or gate",
+        "or-gate",
+        "or_gate",
+        "orgate"
+    ],
+    "Quine Mc Cluskey": [
+        "quine mc cluskey",
+        "quine-mc-cluskey",
+        "quine_mc_cluskey",
+        "quinemccluskey"
+    ],
+    "Xnor Gate": [
+        "xnor gate",
+        "xnor-gate",
+        "xnor_gate",
+        "xnorgate"
+    ],
+    "Xor Gate": [
+        "xor gate",
+        "xor-gate",
+        "xor_gate",
+        "xorgate"
+    ],
+    "Conways Game Of Life": [
+        "conway game of life",
+        "conway s game of life",
+        "conways game of life",
+        "conways-game-of-life",
+        "conways_game_of_life",
+        "conwaysgameoflife"
+    ],
+    "Game Of Life": [
+        "conway game of life",
+        "conway s game of life",
+        "game of life",
+        "game-of-life",
+        "game_of_life",
+        "gameoflife"
+    ],
+    "Langtons Ant": [
+        "langtons ant",
+        "langtons-ant",
+        "langtons_ant",
+        "langtonsant"
+    ],
+    "Nagel Schrekenberg": [
+        "nagel schrekenberg",
+        "nagel-schrekenberg",
+        "nagel_schrekenberg",
+        "nagelschrekenberg"
+    ],
+    "One Dimensional": [
+        "one dimensional",
+        "one-dimensional",
+        "one_dimensional",
+        "onedimensional"
+    ],
+    "Wa Tor": [
+        "wa tor",
+        "wa-tor",
+        "wa_tor",
+        "wator"
+    ],
+    "A1Z26": [
+        "a1z 26",
+        "a1z two6",
+        "a1z26"
+    ],
+    "Affine Cipher": [
+        "affine cipher",
+        "affine-cipher",
+        "affine_cipher",
+        "affinecipher"
+    ],
+    "Atbash": [
+        "atbash"
+    ],
+    "Autokey": [
+        "autokey"
+    ],
+    "Baconian Cipher": [
+        "baconian cipher",
+        "baconian-cipher",
+        "baconian_cipher",
+        "baconiancipher"
+    ],
+    "Base16": [
+        "base16"
+    ],
+    "Base32": [
+        "base 32",
+        "base3 2",
+        "base3 two",
+        "base32"
+    ],
+    "Base64 Cipher": [
+        "base6 4 cipher",
+        "base64 cipher",
+        "base64-cipher",
+        "base64_cipher",
+        "base64cipher"
+    ],
+    "Base85": [
+        "base85"
+    ],
+    "Beaufort Cipher": [
+        "beaufort cipher",
+        "beaufort-cipher",
+        "beaufort_cipher",
+        "beaufortcipher"
+    ],
+    "Bifid": [
+        "bifid"
+    ],
+    "Brute Force Caesar Cipher": [
+        "brute force caesar cipher",
+        "brute-force-caesar-cipher",
+        "brute_force_caesar_cipher",
+        "bruteforcecaesarcipher"
+    ],
+    "Caesar Cipher": [
+        "caesar cipher",
+        "caesar-cipher",
+        "caesar_cipher",
+        "caesarcipher"
+    ],
+    "Cryptomath Module": [
+        "cryptomath module",
+        "cryptomath-module",
+        "cryptomath_module",
+        "cryptomathmodule"
+    ],
+    "Decrypt Caesar With Chi Squared": [
+        "decrypt caesar with chi squared",
+        "decrypt-caesar-with-chi-squared",
+        "decrypt_caesar_with_chi_squared",
+        "decryptcaesarwithchisquared"
+    ],
+    "Deterministic Miller Rabin": [
+        "deterministic miller rabin",
+        "deterministic-miller-rabin",
+        "deterministic_miller_rabin",
+        "deterministicmillerrabin"
+    ],
+    "Diffie": [
+        "diffie"
+    ],
+    "Diffie Hellman": [
+        "dh",
+        "diffie hellman",
+        "diffie-hellman",
+        "diffie_hellman",
+        "diffiehellman"
+    ],
+    "Elgamal Key Generator": [
+        "elgamal key generator",
+        "elgamal-key-generator",
+        "elgamal_key_generator",
+        "elgamalkeygenerator"
+    ],
+    "Enigma Machine2": [
+        "enigma machine 2",
+        "enigma machine two",
+        "enigma machine2",
+        "enigma-machine2",
+        "enigma_machine2",
+        "enigmamachine2"
+    ],
+    "Fractionated Morse Cipher": [
+        "fractionated morse cipher",
+        "fractionated-morse-cipher",
+        "fractionated_morse_cipher",
+        "fractionatedmorsecipher"
+    ],
+    "Gronsfeld Cipher": [
+        "gronsfeld cipher",
+        "gronsfeld-cipher",
+        "gronsfeld_cipher",
+        "gronsfeldcipher"
+    ],
+    "Hill Cipher": [
+        "hill cipher",
+        "hill-cipher",
+        "hill_cipher",
+        "hillcipher"
+    ],
+    "Mixed Keyword Cypher": [
+        "mixed keyword cypher",
+        "mixed-keyword-cypher",
+        "mixed_keyword_cypher",
+        "mixedkeywordcypher"
+    ],
+    "Mono Alphabetic Ciphers": [
+        "mono alphabetic ciphers",
+        "mono-alphabetic-ciphers",
+        "mono_alphabetic_ciphers",
+        "monoalphabeticciphers"
+    ],
+    "Morse Code": [
+        "morse",
+        "morse code",
+        "morse-code",
+        "morse_code",
+        "morsecode"
+    ],
+    "Onepad Cipher": [
+        "onepad cipher",
+        "onepad-cipher",
+        "onepad_cipher",
+        "onepadcipher"
+    ],
+    "Permutation Cipher": [
+        "permutation cipher",
+        "permutation-cipher",
+        "permutation_cipher",
+        "permutationcipher"
+    ],
+    "Playfair Cipher": [
+        "playfair cipher",
+        "playfair-cipher",
+        "playfair_cipher",
+        "playfaircipher"
+    ],
+    "Polybius": [
+        "polybius"
+    ],
+    "Porta Cipher": [
+        "porta cipher",
+        "porta-cipher",
+        "porta_cipher",
+        "portacipher"
+    ],
+    "Rabin Miller": [
+        "rabin miller",
+        "rabin-miller",
+        "rabin_miller",
+        "rabinmiller"
+    ],
+    "Rail Fence Cipher": [
+        "rail fence cipher",
+        "rail-fence-cipher",
+        "rail_fence_cipher",
+        "railfencecipher"
+    ],
+    "Rot13": [
+        "rot1 3",
+        "rot13"
+    ],
+    "Rsa Cipher": [
+        "rsa",
+        "rsa cipher",
+        "rsa-cipher",
+        "rsa_cipher",
+        "rsacipher"
+    ],
+    "Rsa Factorization": [
+        "rsa factorization",
+        "rsa-factorization",
+        "rsa_factorization",
+        "rsafactorization"
+    ],
+    "Rsa Key Generator": [
+        "rsa key generator",
+        "rsa keygen",
+        "rsa-key-generator",
+        "rsa_key_generator",
+        "rsakeygenerator"
+    ],
+    "Running Key Cipher": [
+        "running key cipher",
+        "running-key-cipher",
+        "running_key_cipher",
+        "runningkeycipher"
+    ],
+    "Shuffled Shift Cipher": [
+        "shuffled shift cipher",
+        "shuffled-shift-cipher",
+        "shuffled_shift_cipher",
+        "shuffledshiftcipher"
+    ],
+    "Simple Keyword Cypher": [
+        "simple keyword cypher",
+        "simple-keyword-cypher",
+        "simple_keyword_cypher",
+        "simplekeywordcypher"
+    ],
+    "Simple Substitution Cipher": [
+        "simple substitution cipher",
+        "simple-substitution-cipher",
+        "simple_substitution_cipher",
+        "simplesubstitutioncipher"
+    ],
+    "Transposition Cipher": [
+        "transposition cipher",
+        "transposition-cipher",
+        "transposition_cipher",
+        "transpositioncipher"
+    ],
+    "Transposition Cipher Encrypt Decrypt File": [
+        "transposition cipher encrypt decrypt file",
+        "transposition-cipher-encrypt-decrypt-file",
+        "transposition_cipher_encrypt_decrypt_file",
+        "transpositioncipherencryptdecryptfile"
+    ],
+    "Trifid Cipher": [
+        "trifid cipher",
+        "trifid-cipher",
+        "trifid_cipher",
+        "trifidcipher"
+    ],
+    "Vernam Cipher": [
+        "vernam cipher",
+        "vernam-cipher",
+        "vernam_cipher",
+        "vernamcipher"
+    ],
+    "Vigenere Cipher": [
+        "vigenere cipher",
+        "vigenere-cipher",
+        "vigenere_cipher",
+        "vigenerecipher"
+    ],
+    "Xor Cipher": [
+        "xor cipher",
+        "xor-cipher",
+        "xor_cipher",
+        "xorcipher"
+    ],
+    "Cnn Classification": [
+        "cnn",
+        "cnn classification",
+        "cnn-classification",
+        "cnn_classification",
+        "cnnclassification"
+    ],
+    "Flip Augmentation": [
+        "flip augmentation",
+        "flip-augmentation",
+        "flip_augmentation",
+        "flipaugmentation"
+    ],
+    "Haralick Descriptors": [
+        "haralick descriptors",
+        "haralick-descriptors",
+        "haralick_descriptors",
+        "haralickdescriptors"
+    ],
+    "Harris Corner": [
+        "harris corner",
+        "harris-corner",
+        "harris_corner",
+        "harriscorner"
+    ],
+    "Horn Schunck": [
+        "horn schunck",
+        "horn-schunck",
+        "horn_schunck",
+        "hornschunck"
+    ],
+    "Intensity Based Segmentation": [
+        "intensity based segmentation",
+        "intensity-based-segmentation",
+        "intensity_based_segmentation",
+        "intensitybasedsegmentation"
+    ],
+    "Mean Threshold": [
+        "mean threshold",
+        "mean-threshold",
+        "mean_threshold",
+        "meanthreshold"
+    ],
+    "Mosaic Augmentation": [
+        "mosaic augmentation",
+        "mosaic-augmentation",
+        "mosaic_augmentation",
+        "mosaicaugmentation"
+    ],
+    "Pooling Functions": [
+        "pooling functions",
+        "pooling-functions",
+        "pooling_functions",
+        "poolingfunctions"
+    ],
+    "Astronomical Length Scale Conversion": [
+        "astronomical length scale conversion",
+        "astronomical-length-scale-conversion",
+        "astronomical_length_scale_conversion",
+        "astronomicallengthscaleconversion"
+    ],
+    "Binary To Decimal": [
+        "binary to decimal",
+        "binary-to-decimal",
+        "binary_to_decimal",
+        "binarytodecimal"
+    ],
+    "Binary To Hexadecimal": [
+        "binary to hexadecimal",
+        "binary-to-hexadecimal",
+        "binary_to_hexadecimal",
+        "binarytohexadecimal"
+    ],
+    "Binary To Octal": [
+        "binary to octal",
+        "binary-to-octal",
+        "binary_to_octal",
+        "binarytooctal"
+    ],
+    "Convert Number To Words": [
+        "convert number to words",
+        "convert-number-to-words",
+        "convert_number_to_words",
+        "convertnumbertowords"
+    ],
+    "Decimal To Any": [
+        "decimal to any",
+        "decimal-to-any",
+        "decimal_to_any",
+        "decimaltoany"
+    ],
+    "Decimal To Binary": [
+        "decimal to binary",
+        "decimal-to-binary",
+        "decimal_to_binary",
+        "decimaltobinary"
+    ],
+    "Decimal To Hexadecimal": [
+        "decimal to hexadecimal",
+        "decimal-to-hexadecimal",
+        "decimal_to_hexadecimal",
+        "decimaltohexadecimal"
+    ],
+    "Decimal To Octal": [
+        "decimal to octal",
+        "decimal-to-octal",
+        "decimal_to_octal",
+        "decimaltooctal"
+    ],
+    "Energy Conversions": [
+        "energy conversions",
+        "energy-conversions",
+        "energy_conversions",
+        "energyconversions"
+    ],
+    "Excel Title To Column": [
+        "excel title to column",
+        "excel-title-to-column",
+        "excel_title_to_column",
+        "exceltitletocolumn"
+    ],
+    "Hex To Bin": [
+        "hex to bin",
+        "hex-to-bin",
+        "hex_to_bin",
+        "hextobin"
+    ],
+    "Hexadecimal To Decimal": [
+        "hexadecimal to decimal",
+        "hexadecimal-to-decimal",
+        "hexadecimal_to_decimal",
+        "hexadecimaltodecimal"
+    ],
+    "Ipv4 Conversion": [
+        "ip conversion",
+        "ipv 4 conversion",
+        "ipv4",
+        "ipv4 conversion",
+        "ipv4-conversion",
+        "ipv4_conversion",
+        "ipv4conversion"
+    ],
+    "Length Conversion": [
+        "length conversion",
+        "length-conversion",
+        "length_conversion",
+        "lengthconversion"
+    ],
+    "Molecular Chemistry": [
+        "molecular chemistry",
+        "molecular-chemistry",
+        "molecular_chemistry",
+        "molecularchemistry"
+    ],
+    "Octal To Binary": [
+        "octal to binary",
+        "octal-to-binary",
+        "octal_to_binary",
+        "octaltobinary"
+    ],
+    "Octal To Decimal": [
+        "octal to decimal",
+        "octal-to-decimal",
+        "octal_to_decimal",
+        "octaltodecimal"
+    ],
+    "Octal To Hexadecimal": [
+        "octal to hexadecimal",
+        "octal-to-hexadecimal",
+        "octal_to_hexadecimal",
+        "octaltohexadecimal"
+    ],
+    "Prefix Conversions": [
+        "prefix conversions",
+        "prefix-conversions",
+        "prefix_conversions",
+        "prefixconversions"
+    ],
+    "Prefix Conversions String": [
+        "prefix conversions string",
+        "prefix-conversions-string",
+        "prefix_conversions_string",
+        "prefixconversionsstring"
+    ],
+    "Pressure Conversions": [
+        "pressure conversions",
+        "pressure-conversions",
+        "pressure_conversions",
+        "pressureconversions"
+    ],
+    "Rectangular To Polar": [
+        "rectangular to polar",
+        "rectangular-to-polar",
+        "rectangular_to_polar",
+        "rectangulartopolar"
+    ],
+    "Rgb Cmyk Conversion": [
+        "rgb cmyk conversion",
+        "rgb-cmyk-conversion",
+        "rgb_cmyk_conversion",
+        "rgbcmykconversion"
+    ],
+    "Rgb Hsv Conversion": [
+        "rgb hsv conversion",
+        "rgb-hsv-conversion",
+        "rgb_hsv_conversion",
+        "rgbhsvconversion"
+    ],
+    "Roman Numerals": [
+        "roman numerals",
+        "roman-numerals",
+        "roman_numerals",
+        "romannumerals"
+    ],
+    "Speed Conversions": [
+        "speed conversions",
+        "speed-conversions",
+        "speed_conversions",
+        "speedconversions"
+    ],
+    "Temperature Conversions": [
+        "temperature conversions",
+        "temperature-conversions",
+        "temperature_conversions",
+        "temperatureconversions"
+    ],
+    "Time Conversions": [
+        "time conversions",
+        "time-conversions",
+        "time_conversions",
+        "timeconversions"
+    ],
+    "Volume Conversions": [
+        "volume conversions",
+        "volume-conversions",
+        "volume_conversions",
+        "volumeconversions"
+    ],
+    "Weight Conversion": [
+        "weight conversion",
+        "weight-conversion",
+        "weight_conversion",
+        "weightconversion"
+    ],
+    "Burrows Wheeler": [
+        "burrows wheeler",
+        "burrows-wheeler",
+        "burrows_wheeler",
+        "burrowswheeler"
+    ],
+    "Coordinate Compression": [
+        "coordinate compression",
+        "coordinate-compression",
+        "coordinate_compression",
+        "coordinatecompression"
+    ],
+    "Huffman": [
+        "huffman"
+    ],
+    "Lempel Ziv": [
+        "lempel ziv",
+        "lempel-ziv",
+        "lempel_ziv",
+        "lempelziv"
+    ],
+    "Lempel Ziv Decompress": [
+        "lempel ziv decompress",
+        "lempel-ziv-decompress",
+        "lempel_ziv_decompress",
+        "lempelzivdecompress"
+    ],
+    "Lz77": [
+        "lz77"
+    ],
+    "Peak Signal To Noise Ratio": [
+        "peak signal to noise ratio",
+        "peak-signal-to-noise-ratio",
+        "peak_signal_to_noise_ratio",
+        "peaksignaltonoiseratio"
+    ],
+    "Run Length Encoding": [
+        "run length encoding",
+        "run-length-encoding",
+        "run_length_encoding",
+        "runlengthencoding"
+    ],
+    "Equilibrium Index In Array": [
+        "equilibrium index in array",
+        "equilibrium-index-in-array",
+        "equilibrium_index_in_array",
+        "equilibriumindexinarray"
+    ],
+    "Find Triplets With 0 Sum": [
+        "find triplets with 0 sum",
+        "find-triplets-with-0-sum",
+        "find_triplets_with_0_sum",
+        "findtripletswith0sum"
+    ],
+    "Index 2D Array In 1D": [
+        "index  2d array in 1d",
+        "index  twod array in 1d",
+        "index 2d array in 1d",
+        "index-2d-array-in-1d",
+        "index2darrayin1d",
+        "index_2d_array_in_1d"
+    ],
+    "Kth Largest Element": [
+        "kth largest element",
+        "kth-largest-element",
+        "kth_largest_element",
+        "kthlargestelement"
+    ],
+    "Median Two Array": [
+        "median two array",
+        "median-two-array",
+        "median_two_array",
+        "mediantwoarray"
+    ],
+    "Monotonic Array": [
+        "monotonic array",
+        "monotonic-array",
+        "monotonic_array",
+        "monotonicarray"
+    ],
+    "Pairs With Given Sum": [
+        "pairs with given sum",
+        "pairs-with-given-sum",
+        "pairs_with_given_sum",
+        "pairswithgivensum"
+    ],
+    "Permutations": [
+        "permutations"
+    ],
+    "Prefix Sum": [
+        "prefix sum",
+        "prefix-sum",
+        "prefix_sum",
+        "prefixsum"
+    ],
+    "Product Sum": [
+        "product sum",
+        "product-sum",
+        "product_sum",
+        "productsum"
+    ],
+    "Rotate Array": [
+        "rotate array",
+        "rotate-array",
+        "rotate_array",
+        "rotatearray"
+    ],
+    "Sparse Table": [
+        "sparse table",
+        "sparse-table",
+        "sparse_table",
+        "sparsetable"
+    ],
+    "Sudoku Solver": [
+        "sudoku",
+        "sudoku solver",
+        "sudoku-solver",
+        "sudoku_solver",
+        "sudokusolver"
+    ],
+    "Avl Tree": [
+        "avl tree",
+        "avl-tree",
+        "avl_tree",
+        "avltree"
+    ],
+    "Basic Binary Tree": [
+        "basic binary tree",
+        "basic-binary-tree",
+        "basic_binary_tree",
+        "basicbinarytree"
+    ],
+    "Binary Search Tree": [
+        "binary search tree",
+        "binary-search-tree",
+        "binary_search_tree",
+        "binarysearchtree",
+        "bst"
+    ],
+    "Binary Search Tree Recursive": [
+        "binary search tree recursive",
+        "binary-search-tree-recursive",
+        "binary_search_tree_recursive",
+        "binarysearchtreerecursive"
+    ],
+    "Binary Tree Mirror": [
+        "binary tree mirror",
+        "binary-tree-mirror",
+        "binary_tree_mirror",
+        "binarytreemirror"
+    ],
+    "Binary Tree Node Sum": [
+        "binary tree node sum",
+        "binary-tree-node-sum",
+        "binary_tree_node_sum",
+        "binarytreenodesum"
+    ],
+    "Binary Tree Path Sum": [
+        "binary tree path sum",
+        "binary-tree-path-sum",
+        "binary_tree_path_sum",
+        "binarytreepathsum"
+    ],
+    "Binary Tree Traversals": [
+        "binary tree traversals",
+        "binary-tree-traversals",
+        "binary_tree_traversals",
+        "binarytreetraversals"
+    ],
+    "Diameter Of Binary Tree": [
+        "diameter of binary tree",
+        "diameter-of-binary-tree",
+        "diameter_of_binary_tree",
+        "diameterofbinarytree"
+    ],
+    "Diff Views Of Binary Tree": [
+        "diff views of binary tree",
+        "diff-views-of-binary-tree",
+        "diff_views_of_binary_tree",
+        "diffviewsofbinarytree"
+    ],
+    "Distribute Coins": [
+        "distribute coins",
+        "distribute-coins",
+        "distribute_coins",
+        "distributecoins"
+    ],
+    "Fenwick Tree": [
+        "binary indexed tree",
+        "bit",
+        "fenwick tree",
+        "fenwick-tree",
+        "fenwick_tree",
+        "fenwicktree"
+    ],
+    "Flatten Binarytree To Linkedlist": [
+        "flatten binarytree to linkedlist",
+        "flatten-binarytree-to-linkedlist",
+        "flatten_binarytree_to_linkedlist",
+        "flattenbinarytreetolinkedlist"
+    ],
+    "Floor And Ceiling": [
+        "floor and ceiling",
+        "floor-and-ceiling",
+        "floor_and_ceiling",
+        "floorandceiling"
+    ],
+    "Inorder Tree Traversal 2022": [
+        "inorder tree traversal  20 2 2",
+        "inorder tree traversal  two0 two two",
+        "inorder tree traversal 2022",
+        "inorder-tree-traversal-2022",
+        "inorder_tree_traversal_2022",
+        "inordertreetraversal2022"
+    ],
+    "Is Sorted": [
+        "is sorted",
+        "is-sorted",
+        "is_sorted",
+        "issorted"
+    ],
+    "Is Sum Tree": [
+        "is sum tree",
+        "is-sum-tree",
+        "is_sum_tree",
+        "issumtree"
+    ],
+    "Lazy Segment Tree": [
+        "lazy segment tree",
+        "lazy-segment-tree",
+        "lazy_segment_tree",
+        "lazysegmenttree"
+    ],
+    "Lowest Common Ancestor": [
+        "lca",
+        "lowest common ancestor",
+        "lowest-common-ancestor",
+        "lowest_common_ancestor",
+        "lowestcommonancestor"
+    ],
+    "Maximum Fenwick Tree": [
+        "maximum fenwick tree",
+        "maximum-fenwick-tree",
+        "maximum_fenwick_tree",
+        "maximumfenwicktree"
+    ],
+    "Maximum Sum Bst": [
+        "maximum sum bst",
+        "maximum-sum-bst",
+        "maximum_sum_bst",
+        "maximumsumbst"
+    ],
+    "Merge Two Binary Trees": [
+        "merge two binary trees",
+        "merge-two-binary-trees",
+        "merge_two_binary_trees",
+        "mergetwobinarytrees"
+    ],
+    "Mirror Binary Tree": [
+        "mirror binary tree",
+        "mirror-binary-tree",
+        "mirror_binary_tree",
+        "mirrorbinarytree"
+    ],
+    "Non Recursive Segment Tree": [
+        "non recursive segment tree",
+        "non-recursive-segment-tree",
+        "non_recursive_segment_tree",
+        "nonrecursivesegmenttree"
+    ],
+    "Number Of Possible Binary Trees": [
+        "number of possible binary trees",
+        "number-of-possible-binary-trees",
+        "number_of_possible_binary_trees",
+        "numberofpossiblebinarytrees"
+    ],
+    "Red Black Tree": [
+        "rb tree",
+        "red black tree",
+        "red-black tree",
+        "red-black-tree",
+        "red_black_tree",
+        "redblacktree"
+    ],
+    "Segment Tree": [
+        "segment tree",
+        "segment-tree",
+        "segment_tree",
+        "segmenttree"
+    ],
+    "Segment Tree Other": [
+        "segment tree other",
+        "segment-tree-other",
+        "segment_tree_other",
+        "segmenttreeother"
+    ],
+    "Serialize Deserialize Binary Tree": [
+        "serialize deserialize binary tree",
+        "serialize-deserialize-binary-tree",
+        "serialize_deserialize_binary_tree",
+        "serializedeserializebinarytree"
+    ],
+    "Symmetric Tree": [
+        "symmetric tree",
+        "symmetric-tree",
+        "symmetric_tree",
+        "symmetrictree"
+    ],
+    "Treap": [
+        "treap"
+    ],
+    "Wavelet Tree": [
+        "wavelet tree",
+        "wavelet-tree",
+        "wavelet_tree",
+        "wavelettree"
+    ],
+    "Alternate Disjoint Set": [
+        "alternate disjoint set",
+        "alternate-disjoint-set",
+        "alternate_disjoint_set",
+        "alternatedisjointset"
+    ],
+    "Disjoint Set": [
+        "disjoint set",
+        "disjoint-set",
+        "disjoint_set",
+        "disjointset",
+        "dsu",
+        "union find",
+        "union-find"
+    ],
+    "Bloom Filter": [
+        "bloom filter",
+        "bloom-filter",
+        "bloom_filter",
+        "bloomfilter"
+    ],
+    "Double Hash": [
+        "double hash",
+        "double-hash",
+        "double_hash",
+        "doublehash"
+    ],
+    "Hash Map": [
+        "hash map",
+        "hash-map",
+        "hash_map",
+        "hashmap"
+    ],
+    "Hash Table": [
+        "hash table",
+        "hash-table",
+        "hash_table",
+        "hashtable"
+    ],
+    "Hash Table With Linked List": [
+        "hash table with linked list",
+        "hash-table-with-linked-list",
+        "hash_table_with_linked_list",
+        "hashtablewithlinkedlist"
+    ],
+    "Prime Numbers": [
+        "prime numbers",
+        "prime-numbers",
+        "prime_numbers",
+        "primenumbers"
+    ],
+    "Quadratic Probing": [
+        "quadratic probing",
+        "quadratic-probing",
+        "quadratic_probing",
+        "quadraticprobing"
+    ],
+    "Test Hash Map": [
+        "test hash map",
+        "test-hash-map",
+        "test_hash_map",
+        "testhashmap"
+    ],
+    "Binomial Heap": [
+        "binomial heap",
+        "binomial-heap",
+        "binomial_heap",
+        "binomialheap"
+    ],
+    "Heap": [
+        "heap"
+    ],
+    "Heap Generic": [
+        "heap generic",
+        "heap-generic",
+        "heap_generic",
+        "heapgeneric"
+    ],
+    "Max Heap": [
+        "max heap",
+        "max-heap",
+        "max_heap",
+        "maxheap"
+    ],
+    "Min Heap": [
+        "min heap",
+        "min-heap",
+        "min_heap",
+        "minheap"
+    ],
+    "Randomized Heap": [
+        "randomized heap",
+        "randomized-heap",
+        "randomized_heap",
+        "randomizedheap"
+    ],
+    "Skew Heap": [
+        "skew heap",
+        "skew-heap",
+        "skew_heap",
+        "skewheap"
+    ],
+    "Build Kdtree": [
+        "build kdtree",
+        "build-kdtree",
+        "build_kdtree",
+        "buildkdtree"
+    ],
+    "Example Usage": [
+        "example usage",
+        "example-usage",
+        "example_usage",
+        "exampleusage"
+    ],
+    "Hypercube Points": [
+        "hypercube points",
+        "hypercube-points",
+        "hypercube_points",
+        "hypercubepoints"
+    ],
+    "Kd Node": [
+        "kd node",
+        "kd-node",
+        "kd_node",
+        "kdnode"
+    ],
+    "Nearest Neighbour Search": [
+        "nearest neighbour search",
+        "nearest-neighbour-search",
+        "nearest_neighbour_search",
+        "nearestneighboursearch"
+    ],
+    "Test Kdtree": [
+        "test kdtree",
+        "test-kdtree",
+        "test_kdtree",
+        "testkdtree"
+    ],
+    "Circular Linked List": [
+        "circular linked list",
+        "circular-linked-list",
+        "circular_linked_list",
+        "circularlinkedlist"
+    ],
+    "Deque Doubly": [
+        "deque doubly",
+        "deque-doubly",
+        "deque_doubly",
+        "dequedoubly"
+    ],
+    "Doubly Linked List": [
+        "doubly linked list",
+        "doubly-linked-list",
+        "doubly_linked_list",
+        "doublylinkedlist"
+    ],
+    "Doubly Linked List Two": [
+        "doubly linked list two",
+        "doubly-linked-list-two",
+        "doubly_linked_list_two",
+        "doublylinkedlisttwo"
+    ],
+    "Floyds Cycle Detection": [
+        "floyds cycle detection",
+        "floyds-cycle-detection",
+        "floyds_cycle_detection",
+        "floydscycledetection"
+    ],
+    "From Sequence": [
+        "from sequence",
+        "from-sequence",
+        "from_sequence",
+        "fromsequence"
+    ],
+    "Has Loop": [
+        "has loop",
+        "has-loop",
+        "has_loop",
+        "hasloop"
+    ],
+    "Is Palindrome": [
+        "is palindrome",
+        "is-palindrome",
+        "is_palindrome",
+        "ispalindrome"
+    ],
+    "Merge Two Lists": [
+        "merge two lists",
+        "merge-two-lists",
+        "merge_two_lists",
+        "mergetwolists"
+    ],
+    "Middle Element Of Linked List": [
+        "middle element of linked list",
+        "middle-element-of-linked-list",
+        "middle_element_of_linked_list",
+        "middleelementoflinkedlist"
+    ],
+    "Print Reverse": [
+        "print reverse",
+        "print-reverse",
+        "print_reverse",
+        "printreverse"
+    ],
+    "Reverse K Group": [
+        "reverse k group",
+        "reverse-k-group",
+        "reverse_k_group",
+        "reversekgroup"
+    ],
+    "Rotate To The Right": [
+        "rotate to the right",
+        "rotate-to-the-right",
+        "rotate_to_the_right",
+        "rotatetotheright"
+    ],
+    "Singly Linked List": [
+        "singly linked list",
+        "singly-linked-list",
+        "singly_linked_list",
+        "singlylinkedlist"
+    ],
+    "Skip List": [
+        "skip list",
+        "skip-list",
+        "skip_list",
+        "skiplist"
+    ],
+    "Swap Nodes": [
+        "swap nodes",
+        "swap-nodes",
+        "swap_nodes",
+        "swapnodes"
+    ],
+    "Circular Queue": [
+        "circular queue",
+        "circular-queue",
+        "circular_queue",
+        "circularqueue"
+    ],
+    "Circular Queue Linked List": [
+        "circular queue linked list",
+        "circular-queue-linked-list",
+        "circular_queue_linked_list",
+        "circularqueuelinkedlist"
+    ],
+    "Double Ended Queue": [
+        "double ended queue",
+        "double-ended-queue",
+        "double_ended_queue",
+        "doubleendedqueue"
+    ],
+    "Linked Queue": [
+        "linked queue",
+        "linked-queue",
+        "linked_queue",
+        "linkedqueue"
+    ],
+    "Priority Queue Using List": [
+        "priority queue using list",
+        "priority-queue-using-list",
+        "priority_queue_using_list",
+        "priorityqueueusinglist"
+    ],
+    "Queue By List": [
+        "queue by list",
+        "queue-by-list",
+        "queue_by_list",
+        "queuebylist"
+    ],
+    "Queue By Two Stacks": [
+        "queue by two stacks",
+        "queue-by-two-stacks",
+        "queue_by_two_stacks",
+        "queuebytwostacks"
+    ],
+    "Queue On Pseudo Stack": [
+        "queue on pseudo stack",
+        "queue-on-pseudo-stack",
+        "queue_on_pseudo_stack",
+        "queueonpseudostack"
+    ],
+    "Balanced Parentheses": [
+        "balanced parentheses",
+        "balanced-parentheses",
+        "balanced_parentheses",
+        "balancedparentheses"
+    ],
+    "Dijkstras Two Stack Algorithm": [
+        "dijkstras two stack algorithm",
+        "dijkstras-two-stack-algorithm",
+        "dijkstras_two_stack_algorithm",
+        "dijkstrastwostackalgorithm"
+    ],
+    "Infix To Postfix Conversion": [
+        "infix to postfix conversion",
+        "infix-to-postfix-conversion",
+        "infix_to_postfix_conversion",
+        "infixtopostfixconversion"
+    ],
+    "Infix To Prefix Conversion": [
+        "infix to prefix conversion",
+        "infix-to-prefix-conversion",
+        "infix_to_prefix_conversion",
+        "infixtoprefixconversion"
+    ],
+    "Largest Rectangle Histogram": [
+        "largest rectangle histogram",
+        "largest-rectangle-histogram",
+        "largest_rectangle_histogram",
+        "largestrectanglehistogram"
+    ],
+    "Lexicographical Numbers": [
+        "lexicographical numbers",
+        "lexicographical-numbers",
+        "lexicographical_numbers",
+        "lexicographicalnumbers"
+    ],
+    "Next Greater Element": [
+        "next greater element",
+        "next-greater-element",
+        "next_greater_element",
+        "nextgreaterelement"
+    ],
+    "Postfix Evaluation": [
+        "postfix evaluation",
+        "postfix-evaluation",
+        "postfix_evaluation",
+        "postfixevaluation"
+    ],
+    "Prefix Evaluation": [
+        "prefix evaluation",
+        "prefix-evaluation",
+        "prefix_evaluation",
+        "prefixevaluation"
+    ],
+    "Stack": [
+        "stack"
+    ],
+    "Stack Using Two Queues": [
+        "stack using two queues",
+        "stack-using-two-queues",
+        "stack_using_two_queues",
+        "stackusingtwoqueues"
+    ],
+    "Stack With Doubly Linked List": [
+        "stack with doubly linked list",
+        "stack-with-doubly-linked-list",
+        "stack_with_doubly_linked_list",
+        "stackwithdoublylinkedlist"
+    ],
+    "Stack With Singly Linked List": [
+        "stack with singly linked list",
+        "stack-with-singly-linked-list",
+        "stack_with_singly_linked_list",
+        "stackwithsinglylinkedlist"
+    ],
+    "Stock Span Problem": [
+        "stock span problem",
+        "stock-span-problem",
+        "stock_span_problem",
+        "stockspanproblem"
+    ],
+    "Suffix Tree": [
+        "suffix tree",
+        "suffix-tree",
+        "suffix_tree",
+        "suffixtree"
+    ],
+    "Suffix Tree Node": [
+        "suffix tree node",
+        "suffix-tree-node",
+        "suffix_tree_node",
+        "suffixtreenode"
+    ],
+    "Test Suffix Tree": [
+        "test suffix tree",
+        "test-suffix-tree",
+        "test_suffix_tree",
+        "testsuffixtree"
+    ],
+    "Radix Tree": [
+        "radix tree",
+        "radix-tree",
+        "radix_tree",
+        "radixtree"
+    ],
+    "Trie": [
+        "trie"
+    ],
+    "Change Brightness": [
+        "change brightness",
+        "change-brightness",
+        "change_brightness",
+        "changebrightness"
+    ],
+    "Change Contrast": [
+        "change contrast",
+        "change-contrast",
+        "change_contrast",
+        "changecontrast"
+    ],
+    "Convert To Negative": [
+        "convert to negative",
+        "convert-to-negative",
+        "convert_to_negative",
+        "converttonegative"
+    ],
+    "Burkes": [
+        "burkes"
+    ],
+    "Canny": [
+        "canny"
+    ],
+    "Bilateral Filter": [
+        "bilateral filter",
+        "bilateral-filter",
+        "bilateral_filter",
+        "bilateralfilter"
+    ],
+    "Convolve": [
+        "convolve"
+    ],
+    "Gabor Filter": [
+        "gabor filter",
+        "gabor-filter",
+        "gabor_filter",
+        "gaborfilter"
+    ],
+    "Gaussian Filter": [
+        "gaussian filter",
+        "gaussian-filter",
+        "gaussian_filter",
+        "gaussianfilter"
+    ],
+    "Laplacian Filter": [
+        "laplacian filter",
+        "laplacian-filter",
+        "laplacian_filter",
+        "laplacianfilter"
+    ],
+    "Local Binary Pattern": [
+        "local binary pattern",
+        "local-binary-pattern",
+        "local_binary_pattern",
+        "localbinarypattern"
+    ],
+    "Median Filter": [
+        "median filter",
+        "median-filter",
+        "median_filter",
+        "medianfilter"
+    ],
+    "Sobel Filter": [
+        "sobel filter",
+        "sobel-filter",
+        "sobel_filter",
+        "sobelfilter"
+    ],
+    "Histogram Stretch": [
+        "histogram stretch",
+        "histogram-stretch",
+        "histogram_stretch",
+        "histogramstretch"
+    ],
+    "Index Calculation": [
+        "index calculation",
+        "index-calculation",
+        "index_calculation",
+        "indexcalculation"
+    ],
+    "Dilation Operation": [
+        "dilation operation",
+        "dilation-operation",
+        "dilation_operation",
+        "dilationoperation"
+    ],
+    "Erosion Operation": [
+        "erosion operation",
+        "erosion-operation",
+        "erosion_operation",
+        "erosionoperation"
+    ],
+    "Resize": [
+        "resize"
+    ],
+    "Rotation": [
+        "rotation"
+    ],
+    "Sepia": [
+        "sepia"
+    ],
+    "Test Digital Image Processing": [
+        "test digital image processing",
+        "test-digital-image-processing",
+        "test_digital_image_processing",
+        "testdigitalimageprocessing"
+    ],
+    "Closest Pair Of Points": [
+        "closest pair of points",
+        "closest-pair-of-points",
+        "closest_pair_of_points",
+        "closestpairofpoints"
+    ],
+    "Convex Hull": [
+        "convex hull",
+        "convex-hull",
+        "convex_hull",
+        "convexhull"
+    ],
+    "Heaps Algorithm": [
+        "heaps algorithm",
+        "heaps-algorithm",
+        "heaps_algorithm",
+        "heapsalgorithm"
+    ],
+    "Heaps Algorithm Iterative": [
+        "heaps algorithm iterative",
+        "heaps-algorithm-iterative",
+        "heaps_algorithm_iterative",
+        "heapsalgorithmiterative"
+    ],
+    "Inversions": [
+        "inversions"
+    ],
+    "Kth Order Statistic": [
+        "kth order statistic",
+        "kth-order-statistic",
+        "kth_order_statistic",
+        "kthorderstatistic"
+    ],
+    "Max Difference Pair": [
+        "max difference pair",
+        "max-difference-pair",
+        "max_difference_pair",
+        "maxdifferencepair"
+    ],
+    "Max Subarray": [
+        "max subarray",
+        "max-subarray",
+        "max_subarray",
+        "maxsubarray"
+    ],
+    "Mergesort": [
+        "mergesort"
+    ],
+    "Peak": [
+        "peak"
+    ],
+    "Power": [
+        "power"
+    ],
+    "Strassen Matrix Multiplication": [
+        "strassen matrix multiplication",
+        "strassen-matrix-multiplication",
+        "strassen_matrix_multiplication",
+        "strassenmatrixmultiplication"
+    ],
+    "Abbreviation": [
+        "abbreviation"
+    ],
+    "All Construct": [
+        "all construct",
+        "all-construct",
+        "all_construct",
+        "allconstruct"
+    ],
+    "Bitmask": [
+        "bitmask"
+    ],
+    "Catalan Numbers": [
+        "catalan numbers",
+        "catalan-numbers",
+        "catalan_numbers",
+        "catalannumbers"
+    ],
+    "Climbing Stairs": [
+        "climbing stairs",
+        "climbing-stairs",
+        "climbing_stairs",
+        "climbingstairs"
+    ],
+    "Combination Sum Iv": [
+        "combination sum iv",
+        "combination-sum-iv",
+        "combination_sum_iv",
+        "combinationsumiv"
+    ],
+    "Edit Distance": [
+        "edit distance",
+        "edit-distance",
+        "edit_distance",
+        "editdistance"
+    ],
+    "Factorial": [
+        "factorial"
+    ],
+    "Fast Fibonacci": [
+        "fast fibonacci",
+        "fast-fibonacci",
+        "fast_fibonacci",
+        "fastfibonacci"
+    ],
+    "Fibonacci": [
+        "fibonacci"
+    ],
+    "Fizz Buzz": [
+        "fizz buzz",
+        "fizz-buzz",
+        "fizz_buzz",
+        "fizzbuzz"
+    ],
+    "Floyd Warshall": [
+        "floyd warshall",
+        "floyd-warshall",
+        "floyd_warshall",
+        "floydwarshall"
+    ],
+    "Integer Partition": [
+        "integer partition",
+        "integer-partition",
+        "integer_partition",
+        "integerpartition"
+    ],
+    "Iterating Through Submasks": [
+        "iterating through submasks",
+        "iterating-through-submasks",
+        "iterating_through_submasks",
+        "iteratingthroughsubmasks"
+    ],
+    "K Means Clustering Tensorflow": [
+        "k means clustering tensorflow",
+        "k-means-clustering-tensorflow",
+        "k_means_clustering_tensorflow",
+        "kmeansclusteringtensorflow"
+    ],
+    "Knapsack": [
+        "knapsack"
+    ],
+    "Largest Divisible Subset": [
+        "largest divisible subset",
+        "largest-divisible-subset",
+        "largest_divisible_subset",
+        "largestdivisiblesubset"
+    ],
+    "Longest Common Subsequence": [
+        "longest common subsequence",
+        "longest-common-subsequence",
+        "longest_common_subsequence",
+        "longestcommonsubsequence"
+    ],
+    "Longest Common Substring": [
+        "longest common substring",
+        "longest-common-substring",
+        "longest_common_substring",
+        "longestcommonsubstring"
+    ],
+    "Longest Increasing Subsequence": [
+        "longest increasing subsequence",
+        "longest-increasing-subsequence",
+        "longest_increasing_subsequence",
+        "longestincreasingsubsequence"
+    ],
+    "Longest Increasing Subsequence Iterative": [
+        "longest increasing subsequence iterative",
+        "longest-increasing-subsequence-iterative",
+        "longest_increasing_subsequence_iterative",
+        "longestincreasingsubsequenceiterative"
+    ],
+    "Longest Increasing Subsequence O Nlogn": [
+        "longest increasing subsequence o nlogn",
+        "longest-increasing-subsequence-o-nlogn",
+        "longest_increasing_subsequence_o_nlogn",
+        "longestincreasingsubsequenceonlogn"
+    ],
+    "Longest Palindromic Subsequence": [
+        "longest palindromic subsequence",
+        "longest-palindromic-subsequence",
+        "longest_palindromic_subsequence",
+        "longestpalindromicsubsequence"
+    ],
+    "Matrix Chain Multiplication": [
+        "matrix chain multiplication",
+        "matrix-chain-multiplication",
+        "matrix_chain_multiplication",
+        "matrixchainmultiplication"
+    ],
+    "Matrix Chain Order": [
+        "matrix chain order",
+        "matrix-chain-order",
+        "matrix_chain_order",
+        "matrixchainorder"
+    ],
+    "Max Non Adjacent Sum": [
+        "max non adjacent sum",
+        "max-non-adjacent-sum",
+        "max_non_adjacent_sum",
+        "maxnonadjacentsum"
+    ],
+    "Max Product Subarray": [
+        "max product subarray",
+        "max-product-subarray",
+        "max_product_subarray",
+        "maxproductsubarray"
+    ],
+    "Max Subarray Sum": [
+        "max subarray sum",
+        "max-subarray-sum",
+        "max_subarray_sum",
+        "maxsubarraysum"
+    ],
+    "Min Distance Up Bottom": [
+        "min distance up bottom",
+        "min-distance-up-bottom",
+        "min_distance_up_bottom",
+        "mindistanceupbottom"
+    ],
+    "Minimum Coin Change": [
+        "minimum coin change",
+        "minimum-coin-change",
+        "minimum_coin_change",
+        "minimumcoinchange"
+    ],
+    "Minimum Cost Path": [
+        "minimum cost path",
+        "minimum-cost-path",
+        "minimum_cost_path",
+        "minimumcostpath"
+    ],
+    "Minimum Partition": [
+        "minimum partition",
+        "minimum-partition",
+        "minimum_partition",
+        "minimumpartition"
+    ],
+    "Minimum Size Subarray Sum": [
+        "minimum size subarray sum",
+        "minimum-size-subarray-sum",
+        "minimum_size_subarray_sum",
+        "minimumsizesubarraysum"
+    ],
+    "Minimum Squares To Represent A Number": [
+        "minimum squares to represent a number",
+        "minimum-squares-to-represent-a-number",
+        "minimum_squares_to_represent_a_number",
+        "minimumsquarestorepresentanumber"
+    ],
+    "Minimum Steps To One": [
+        "minimum steps to one",
+        "minimum-steps-to-one",
+        "minimum_steps_to_one",
+        "minimumstepstoone"
+    ],
+    "Minimum Tickets Cost": [
+        "minimum tickets cost",
+        "minimum-tickets-cost",
+        "minimum_tickets_cost",
+        "minimumticketscost"
+    ],
+    "Narcissistic Number": [
+        "narcissistic number",
+        "narcissistic-number",
+        "narcissistic_number",
+        "narcissisticnumber"
+    ],
+    "Optimal Binary Search Tree": [
+        "optimal binary search tree",
+        "optimal-binary-search-tree",
+        "optimal_binary_search_tree",
+        "optimalbinarysearchtree"
+    ],
+    "Palindrome Partitioning": [
+        "palindrome partitioning",
+        "palindrome-partitioning",
+        "palindrome_partitioning",
+        "palindromepartitioning"
+    ],
+    "Range Sum Query": [
+        "range sum query",
+        "range-sum-query",
+        "range_sum_query",
+        "rangesumquery"
+    ],
+    "Regex Match": [
+        "regex match",
+        "regex-match",
+        "regex_match",
+        "regexmatch"
+    ],
+    "Rod Cutting": [
+        "rod cutting",
+        "rod-cutting",
+        "rod_cutting",
+        "rodcutting"
+    ],
+    "Smith Waterman": [
+        "smith waterman",
+        "smith-waterman",
+        "smith_waterman",
+        "smithwaterman"
+    ],
+    "Subset Generation": [
+        "subset generation",
+        "subset-generation",
+        "subset_generation",
+        "subsetgeneration"
+    ],
+    "Sum Of Subset": [
+        "sum of subset",
+        "sum-of-subset",
+        "sum_of_subset",
+        "sumofsubset"
+    ],
+    "Trapped Water": [
+        "trapped water",
+        "trapped-water",
+        "trapped_water",
+        "trappedwater"
+    ],
+    "Tribonacci": [
+        "tribonacci"
+    ],
+    "Viterbi": [
+        "viterbi"
+    ],
+    "Wildcard Matching": [
+        "wildcard matching",
+        "wildcard-matching",
+        "wildcard_matching",
+        "wildcardmatching"
+    ],
+    "Apparent Power": [
+        "apparent power",
+        "apparent-power",
+        "apparent_power",
+        "apparentpower"
+    ],
+    "Builtin Voltage": [
+        "builtin voltage",
+        "builtin-voltage",
+        "builtin_voltage",
+        "builtinvoltage"
+    ],
+    "Capacitor Equivalence": [
+        "capacitor equivalence",
+        "capacitor-equivalence",
+        "capacitor_equivalence",
+        "capacitorequivalence"
+    ],
+    "Carrier Concentration": [
+        "carrier concentration",
+        "carrier-concentration",
+        "carrier_concentration",
+        "carrierconcentration"
+    ],
+    "Charging Capacitor": [
+        "charging capacitor",
+        "charging-capacitor",
+        "charging_capacitor",
+        "chargingcapacitor"
+    ],
+    "Charging Inductor": [
+        "charging inductor",
+        "charging-inductor",
+        "charging_inductor",
+        "charginginductor"
+    ],
+    "Circular Convolution": [
+        "circular convolution",
+        "circular-convolution",
+        "circular_convolution",
+        "circularconvolution"
+    ],
+    "Coulombs Law": [
+        "coulombs law",
+        "coulombs-law",
+        "coulombs_law",
+        "coulombslaw"
+    ],
+    "Electric Conductivity": [
+        "electric conductivity",
+        "electric-conductivity",
+        "electric_conductivity",
+        "electricconductivity"
+    ],
+    "Electric Power": [
+        "electric power",
+        "electric-power",
+        "electric_power",
+        "electricpower"
+    ],
+    "Electrical Impedance": [
+        "electrical impedance",
+        "electrical-impedance",
+        "electrical_impedance",
+        "electricalimpedance"
+    ],
+    "Ic 555 Timer": [
+        "ic 555 timer",
+        "ic-555-timer",
+        "ic555timer",
+        "ic_555_timer"
+    ],
+    "Ind Reactance": [
+        "ind reactance",
+        "ind-reactance",
+        "ind_reactance",
+        "indreactance"
+    ],
+    "Ohms Law": [
+        "ohms law",
+        "ohms-law",
+        "ohms_law",
+        "ohmslaw"
+    ],
+    "Real And Reactive Power": [
+        "real and reactive power",
+        "real-and-reactive-power",
+        "real_and_reactive_power",
+        "realandreactivepower"
+    ],
+    "Resistor Color Code": [
+        "resistor color code",
+        "resistor-color-code",
+        "resistor_color_code",
+        "resistorcolorcode"
+    ],
+    "Resistor Equivalence": [
+        "resistor equivalence",
+        "resistor-equivalence",
+        "resistor_equivalence",
+        "resistorequivalence"
+    ],
+    "Resonant Frequency": [
+        "resonant frequency",
+        "resonant-frequency",
+        "resonant_frequency",
+        "resonantfrequency"
+    ],
+    "Wheatstone Bridge": [
+        "wheatstone bridge",
+        "wheatstone-bridge",
+        "wheatstone_bridge",
+        "wheatstonebridge"
+    ],
+    "Receive File": [
+        "receive file",
+        "receive-file",
+        "receive_file",
+        "receivefile"
+    ],
+    "Send File": [
+        "send file",
+        "send-file",
+        "send_file",
+        "sendfile"
+    ],
+    "Test Send File": [
+        "test send file",
+        "test-send-file",
+        "test_send_file",
+        "testsendfile"
+    ],
+    "Equated Monthly Installments": [
+        "equated monthly installments",
+        "equated-monthly-installments",
+        "equated_monthly_installments",
+        "equatedmonthlyinstallments"
+    ],
+    "Exponential Moving Average": [
+        "exponential moving average",
+        "exponential-moving-average",
+        "exponential_moving_average",
+        "exponentialmovingaverage"
+    ],
+    "Interest": [
+        "interest"
+    ],
+    "Present Value": [
+        "present value",
+        "present-value",
+        "present_value",
+        "presentvalue"
+    ],
+    "Price Plus Tax": [
+        "price plus tax",
+        "price-plus-tax",
+        "price_plus_tax",
+        "priceplustax"
+    ],
+    "Simple Moving Average": [
+        "simple moving average",
+        "simple-moving-average",
+        "simple_moving_average",
+        "simplemovingaverage"
+    ],
+    "Straight Line Depreciation": [
+        "straight line depreciation",
+        "straight-line-depreciation",
+        "straight_line_depreciation",
+        "straightlinedepreciation"
+    ],
+    "Time And Half Pay": [
+        "time and half pay",
+        "time-and-half-pay",
+        "time_and_half_pay",
+        "timeandhalfpay"
+    ],
+    "Julia Sets": [
+        "julia sets",
+        "julia-sets",
+        "julia_sets",
+        "juliasets"
+    ],
+    "Koch Snowflake": [
+        "koch snowflake",
+        "koch-snowflake",
+        "koch_snowflake",
+        "kochsnowflake"
+    ],
+    "Mandelbrot": [
+        "mandelbrot"
+    ],
+    "Sierpinski Triangle": [
+        "sierpinski triangle",
+        "sierpinski-triangle",
+        "sierpinski_triangle",
+        "sierpinskitriangle"
+    ],
+    "Vicsek": [
+        "vicsek"
+    ],
+    "Fuzzy Operations": [
+        "fuzzy operations",
+        "fuzzy-operations",
+        "fuzzy_operations",
+        "fuzzyoperations"
+    ],
+    "Basic String": [
+        "basic string",
+        "basic-string",
+        "basic_string",
+        "basicstring"
+    ],
+    "Haversine Distance": [
+        "haversine distance",
+        "haversine-distance",
+        "haversine_distance",
+        "haversinedistance"
+    ],
+    "Lamberts Ellipsoidal Distance": [
+        "lamberts ellipsoidal distance",
+        "lamberts-ellipsoidal-distance",
+        "lamberts_ellipsoidal_distance",
+        "lambertsellipsoidaldistance"
+    ],
+    "Geometry": [
+        "geometry"
+    ],
+    "Bezier Curve": [
+        "bezier curve",
+        "bezier-curve",
+        "bezier_curve",
+        "beziercurve"
+    ],
+    "Butterfly Pattern": [
+        "butterfly pattern",
+        "butterfly-pattern",
+        "butterfly_pattern",
+        "butterflypattern"
+    ],
+    "Digital Differential Analyzer Line": [
+        "digital differential analyzer line",
+        "digital-differential-analyzer-line",
+        "digital_differential_analyzer_line",
+        "digitaldifferentialanalyzerline"
+    ],
+    "Vector3 For 2D Rendering": [
+        "vector 3 for 2d rendering",
+        "vector3 for  2d rendering",
+        "vector3 for  twod rendering",
+        "vector3 for 2d rendering",
+        "vector3-for-2d-rendering",
+        "vector3_for_2d_rendering",
+        "vector3for2drendering"
+    ],
+    "A Star": [
+        "a star",
+        "a*",
+        "a-star",
+        "a_star",
+        "astar"
+    ],
+    "Ant Colony Optimization Algorithms": [
+        "ant colony optimization algorithms",
+        "ant-colony-optimization-algorithms",
+        "ant_colony_optimization_algorithms",
+        "antcolonyoptimizationalgorithms"
+    ],
+    "Articulation Points": [
+        "articulation points",
+        "articulation-points",
+        "articulation_points",
+        "articulationpoints"
+    ],
+    "Basic Graphs": [
+        "basic graphs",
+        "basic-graphs",
+        "basic_graphs",
+        "basicgraphs"
+    ],
+    "Bellman Ford": [
+        "bellman ford",
+        "bellman-ford",
+        "bellman_ford",
+        "bellmanford"
+    ],
+    "Bi Directional Dijkstra": [
+        "bi directional dijkstra",
+        "bi-directional-dijkstra",
+        "bi_directional_dijkstra",
+        "bidirectionaldijkstra"
+    ],
+    "Bidirectional A Star": [
+        "bidirectional a star",
+        "bidirectional-a-star",
+        "bidirectional_a_star",
+        "bidirectionalastar"
+    ],
+    "Bidirectional Breadth First Search": [
+        "bidirectional breadth first search",
+        "bidirectional-breadth-first-search",
+        "bidirectional_breadth_first_search",
+        "bidirectionalbreadthfirstsearch"
+    ],
+    "Bidirectional Search": [
+        "bidirectional search",
+        "bidirectional-search",
+        "bidirectional_search",
+        "bidirectionalsearch"
+    ],
+    "Boruvka": [
+        "boruvka"
+    ],
+    "Breadth First Search": [
+        "bfs",
+        "breadth first search",
+        "breadth-first-search",
+        "breadth_first_search",
+        "breadthfirstsearch"
+    ],
+    "Breadth First Search 2": [
+        "bfs",
+        "breadth first search  2",
+        "breadth first search  two",
+        "breadth first search 2",
+        "breadth-first-search-2",
+        "breadth_first_search_2",
+        "breadthfirstsearch2"
+    ],
+    "Breadth First Search Shortest Path": [
+        "breadth first search shortest path",
+        "breadth-first-search-shortest-path",
+        "breadth_first_search_shortest_path",
+        "breadthfirstsearchshortestpath"
+    ],
+    "Breadth First Search Shortest Path 2": [
+        "breadth first search shortest path  2",
+        "breadth first search shortest path  two",
+        "breadth first search shortest path 2",
+        "breadth-first-search-shortest-path-2",
+        "breadth_first_search_shortest_path_2",
+        "breadthfirstsearchshortestpath2"
+    ],
+    "Breadth First Search Zero One Shortest Path": [
+        "breadth first search zero one shortest path",
+        "breadth-first-search-zero-one-shortest-path",
+        "breadth_first_search_zero_one_shortest_path",
+        "breadthfirstsearchzerooneshortestpath"
+    ],
+    "Check Bipatrite": [
+        "check bipatrite",
+        "check-bipatrite",
+        "check_bipatrite",
+        "checkbipatrite"
+    ],
+    "Check Cycle": [
+        "check cycle",
+        "check-cycle",
+        "check_cycle",
+        "checkcycle"
+    ],
+    "Connected Components": [
+        "connected components",
+        "connected-components",
+        "connected_components",
+        "connectedcomponents"
+    ],
+    "Deep Clone Graph": [
+        "deep clone graph",
+        "deep-clone-graph",
+        "deep_clone_graph",
+        "deepclonegraph"
+    ],
+    "Depth First Search": [
+        "depth first search",
+        "depth-first-search",
+        "depth_first_search",
+        "depthfirstsearch",
+        "dfs"
+    ],
+    "Depth First Search 2": [
+        "depth first search  2",
+        "depth first search  two",
+        "depth first search 2",
+        "depth-first-search-2",
+        "depth_first_search_2",
+        "depthfirstsearch2",
+        "dfs"
+    ],
+    "Dijkstra": [
+        "dijkstra",
+        "dijkstra s algorithm",
+        "dijkstras"
+    ],
+    "Dijkstra 2": [
+        "dijkstra  2",
+        "dijkstra  two",
+        "dijkstra 2",
+        "dijkstra-2",
+        "dijkstra2",
+        "dijkstra_2"
+    ],
+    "Dijkstra Algorithm": [
+        "dijkstra",
+        "dijkstra algorithm",
+        "dijkstra-algorithm",
+        "dijkstra_algorithm",
+        "dijkstraalgorithm"
+    ],
+    "Dijkstra Alternate": [
+        "dijkstra alternate",
+        "dijkstra-alternate",
+        "dijkstra_alternate",
+        "dijkstraalternate"
+    ],
+    "Dijkstra Binary Grid": [
+        "dijkstra binary grid",
+        "dijkstra-binary-grid",
+        "dijkstra_binary_grid",
+        "dijkstrabinarygrid"
+    ],
+    "Dinic": [
+        "dinic"
+    ],
+    "Directed And Undirected Weighted Graph": [
+        "directed and undirected weighted graph",
+        "directed-and-undirected-weighted-graph",
+        "directed_and_undirected_weighted_graph",
+        "directedandundirectedweightedgraph"
+    ],
+    "Edmonds Karp Multiple Source And Sink": [
+        "edmonds karp multiple source and sink",
+        "edmonds-karp-multiple-source-and-sink",
+        "edmonds_karp_multiple_source_and_sink",
+        "edmondskarpmultiplesourceandsink"
+    ],
+    "Eulerian Path And Circuit For Undirected Graph": [
+        "eulerian path and circuit for undirected graph",
+        "eulerian-path-and-circuit-for-undirected-graph",
+        "eulerian_path_and_circuit_for_undirected_graph",
+        "eulerianpathandcircuitforundirectedgraph"
+    ],
+    "Even Tree": [
+        "even tree",
+        "even-tree",
+        "even_tree",
+        "eventree"
+    ],
+    "Finding Bridges": [
+        "finding bridges",
+        "finding-bridges",
+        "finding_bridges",
+        "findingbridges"
+    ],
+    "Frequent Pattern Graph Miner": [
+        "frequent pattern graph miner",
+        "frequent-pattern-graph-miner",
+        "frequent_pattern_graph_miner",
+        "frequentpatterngraphminer"
+    ],
+    "G Topological Sort": [
+        "g topological sort",
+        "g-topological-sort",
+        "g_topological_sort",
+        "gtopologicalsort"
+    ],
+    "Gale Shapley Bigraph": [
+        "gale shapley bigraph",
+        "gale-shapley-bigraph",
+        "gale_shapley_bigraph",
+        "galeshapleybigraph"
+    ],
+    "Graph Adjacency List": [
+        "graph adjacency list",
+        "graph-adjacency-list",
+        "graph_adjacency_list",
+        "graphadjacencylist"
+    ],
+    "Graph Adjacency Matrix": [
+        "graph adjacency matrix",
+        "graph-adjacency-matrix",
+        "graph_adjacency_matrix",
+        "graphadjacencymatrix"
+    ],
+    "Graph List": [
+        "graph list",
+        "graph-list",
+        "graph_list",
+        "graphlist"
+    ],
+    "Graphs Floyd Warshall": [
+        "graphs floyd warshall",
+        "graphs-floyd-warshall",
+        "graphs_floyd_warshall",
+        "graphsfloydwarshall"
+    ],
+    "Greedy Best First": [
+        "greedy best first",
+        "greedy-best-first",
+        "greedy_best_first",
+        "greedybestfirst"
+    ],
+    "Greedy Min Vertex Cover": [
+        "greedy min vertex cover",
+        "greedy-min-vertex-cover",
+        "greedy_min_vertex_cover",
+        "greedyminvertexcover"
+    ],
+    "Kahns Algorithm Long": [
+        "kahns algorithm long",
+        "kahns-algorithm-long",
+        "kahns_algorithm_long",
+        "kahnsalgorithmlong"
+    ],
+    "Kahns Algorithm Topo": [
+        "kahns algorithm topo",
+        "kahns-algorithm-topo",
+        "kahns_algorithm_topo",
+        "kahnsalgorithmtopo"
+    ],
+    "Karger": [
+        "karger"
+    ],
+    "Lanczos Eigenvectors": [
+        "lanczos eigenvectors",
+        "lanczos-eigenvectors",
+        "lanczos_eigenvectors",
+        "lanczoseigenvectors"
+    ],
+    "Markov Chain": [
+        "markov chain",
+        "markov-chain",
+        "markov_chain",
+        "markovchain"
+    ],
+    "Matching Min Vertex Cover": [
+        "matching min vertex cover",
+        "matching-min-vertex-cover",
+        "matching_min_vertex_cover",
+        "matchingminvertexcover"
+    ],
+    "Minimum Path Sum": [
+        "minimum path sum",
+        "minimum-path-sum",
+        "minimum_path_sum",
+        "minimumpathsum"
+    ],
+    "Minimum Spanning Tree": [
+        "minimum spanning tree ",
+        "minimum-spanning-tree-",
+        "minimum_spanning_tree",
+        "minimumspanningtree"
+    ],
+    "Minimum Spanning Tree Boruvka": [
+        "minimum spanning tree boruvka",
+        "minimum-spanning-tree-boruvka",
+        "minimum_spanning_tree_boruvka",
+        "minimumspanningtreeboruvka"
+    ],
+    "Minimum Spanning Tree Kruskal": [
+        "kruskal mst",
+        "minimum spanning tree kruskal",
+        "minimum-spanning-tree-kruskal",
+        "minimum_spanning_tree_kruskal",
+        "minimumspanningtreekruskal",
+        "mst kruskal"
+    ],
+    "Minimum Spanning Tree Kruskal2": [
+        "minimum spanning tree kruskal 2",
+        "minimum spanning tree kruskal two",
+        "minimum spanning tree kruskal2",
+        "minimum-spanning-tree-kruskal2",
+        "minimum_spanning_tree_kruskal2",
+        "minimumspanningtreekruskal2"
+    ],
+    "Minimum Spanning Tree Prims": [
+        "minimum spanning tree prims",
+        "minimum-spanning-tree-prims",
+        "minimum_spanning_tree_prims",
+        "minimumspanningtreeprims",
+        "mst prim",
+        "prim mst"
+    ],
+    "Minimum Spanning Tree Prims2": [
+        "minimum spanning tree prims 2",
+        "minimum spanning tree prims two",
+        "minimum spanning tree prims2",
+        "minimum-spanning-tree-prims2",
+        "minimum_spanning_tree_prims2",
+        "minimumspanningtreeprims2"
+    ],
+    "Multi Heuristic Astar": [
+        "multi heuristic astar",
+        "multi-heuristic-astar",
+        "multi_heuristic_astar",
+        "multiheuristicastar"
+    ],
+    "Page Rank": [
+        "page rank",
+        "page-rank",
+        "page_rank",
+        "pagerank"
+    ],
+    "Prim": [
+        "prim",
+        "prim s",
+        "prims"
+    ],
+    "Random Graph Generator": [
+        "random graph generator",
+        "random-graph-generator",
+        "random_graph_generator",
+        "randomgraphgenerator"
+    ],
+    "Scc Kosaraju": [
+        "scc kosaraju",
+        "scc-kosaraju",
+        "scc_kosaraju",
+        "scckosaraju"
+    ],
+    "Strongly Connected Components": [
+        "strongly connected components",
+        "strongly-connected-components",
+        "strongly_connected_components",
+        "stronglyconnectedcomponents"
+    ],
+    "Tarjans Scc": [
+        "tarjans scc",
+        "tarjans-scc",
+        "tarjans_scc",
+        "tarjansscc"
+    ],
+    "Test Min Spanning Tree Kruskal": [
+        "test min spanning tree kruskal",
+        "test-min-spanning-tree-kruskal",
+        "test_min_spanning_tree_kruskal",
+        "testminspanningtreekruskal"
+    ],
+    "Test Min Spanning Tree Prim": [
+        "test min spanning tree prim",
+        "test-min-spanning-tree-prim",
+        "test_min_spanning_tree_prim",
+        "testminspanningtreeprim"
+    ],
+    "Best Time To Buy And Sell Stock": [
+        "best time to buy and sell stock",
+        "best-time-to-buy-and-sell-stock",
+        "best_time_to_buy_and_sell_stock",
+        "besttimetobuyandsellstock"
+    ],
+    "Fractional Cover Problem": [
+        "fractional cover problem",
+        "fractional-cover-problem",
+        "fractional_cover_problem",
+        "fractionalcoverproblem"
+    ],
+    "Fractional Knapsack": [
+        "fractional knapsack",
+        "fractional-knapsack",
+        "fractional_knapsack",
+        "fractionalknapsack"
+    ],
+    "Fractional Knapsack 2": [
+        "fractional knapsack  2",
+        "fractional knapsack  two",
+        "fractional knapsack 2",
+        "fractional-knapsack-2",
+        "fractional_knapsack_2",
+        "fractionalknapsack2"
+    ],
+    "Gas Station": [
+        "gas station",
+        "gas-station",
+        "gas_station",
+        "gasstation"
+    ],
+    "Minimum Waiting Time": [
+        "minimum waiting time",
+        "minimum-waiting-time",
+        "minimum_waiting_time",
+        "minimumwaitingtime"
+    ],
+    "Optimal Merge Pattern": [
+        "optimal merge pattern",
+        "optimal-merge-pattern",
+        "optimal_merge_pattern",
+        "optimalmergepattern"
+    ],
+    "Smallest Range": [
+        "smallest range",
+        "smallest-range",
+        "smallest_range",
+        "smallestrange"
+    ],
+    "Adler32": [
+        "adler 32",
+        "adler3 2",
+        "adler3 two",
+        "adler32"
+    ],
+    "Chaos Machine": [
+        "chaos machine",
+        "chaos-machine",
+        "chaos_machine",
+        "chaosmachine"
+    ],
+    "Djb2": [
+        "djb 2",
+        "djb two",
+        "djb2"
+    ],
+    "Elf": [
+        "elf"
+    ],
+    "Enigma Machine": [
+        "enigma machine",
+        "enigma-machine",
+        "enigma_machine",
+        "enigmamachine"
+    ],
+    "Fletcher16": [
+        "fletcher16"
+    ],
+    "Hamming Code": [
+        "hamming code",
+        "hamming-code",
+        "hamming_code",
+        "hammingcode"
+    ],
+    "Luhn": [
+        "luhn"
+    ],
+    "Md5": [
+        "md5"
+    ],
+    "Sdbm": [
+        "sdbm"
+    ],
+    "Sha1": [
+        "sha1"
+    ],
+    "Sha256": [
+        "sha 256",
+        "sha two56",
+        "sha256"
+    ],
+    "Greedy Knapsack": [
+        "greedy knapsack",
+        "greedy-knapsack",
+        "greedy_knapsack",
+        "greedyknapsack"
+    ],
+    "Recursive Approach Knapsack": [
+        "recursive approach knapsack",
+        "recursive-approach-knapsack",
+        "recursive_approach_knapsack",
+        "recursiveapproachknapsack"
+    ],
+    "Test Greedy Knapsack": [
+        "test greedy knapsack",
+        "test-greedy-knapsack",
+        "test_greedy_knapsack",
+        "testgreedyknapsack"
+    ],
+    "Test Knapsack": [
+        "test knapsack",
+        "test-knapsack",
+        "test_knapsack",
+        "testknapsack"
+    ],
+    "Gaussian Elimination": [
+        "gaussian elimination",
+        "gaussian-elimination",
+        "gaussian_elimination",
+        "gaussianelimination"
+    ],
+    "Jacobi Iteration Method": [
+        "jacobi iteration method",
+        "jacobi-iteration-method",
+        "jacobi_iteration_method",
+        "jacobiiterationmethod"
+    ],
+    "Lu Decomposition": [
+        "lu decomposition",
+        "lu-decomposition",
+        "lu_decomposition",
+        "ludecomposition"
+    ],
+    "Matrix Inversion": [
+        "matrix inversion",
+        "matrix-inversion",
+        "matrix_inversion",
+        "matrixinversion"
+    ],
+    "Conjugate Gradient": [
+        "conjugate gradient",
+        "conjugate-gradient",
+        "conjugate_gradient",
+        "conjugategradient"
+    ],
+    "Gaussian Elimination Pivoting": [
+        "gaussian elimination pivoting",
+        "gaussian-elimination-pivoting",
+        "gaussian_elimination_pivoting",
+        "gaussianeliminationpivoting"
+    ],
+    "Lib": [
+        "lib"
+    ],
+    "Polynom For Points": [
+        "polynom for points",
+        "polynom-for-points",
+        "polynom_for_points",
+        "polynomforpoints"
+    ],
+    "Power Iteration": [
+        "power iteration",
+        "power-iteration",
+        "power_iteration",
+        "poweriteration"
+    ],
+    "Rank Of Matrix": [
+        "rank of matrix",
+        "rank-of-matrix",
+        "rank_of_matrix",
+        "rankofmatrix"
+    ],
+    "Rayleigh Quotient": [
+        "rayleigh quotient",
+        "rayleigh-quotient",
+        "rayleigh_quotient",
+        "rayleighquotient"
+    ],
+    "Schur Complement": [
+        "schur complement",
+        "schur-complement",
+        "schur_complement",
+        "schurcomplement"
+    ],
+    "Test Linear Algebra": [
+        "test linear algebra",
+        "test-linear-algebra",
+        "test_linear_algebra",
+        "testlinearalgebra"
+    ],
+    "Transformations 2D": [
+        "transformations  2d",
+        "transformations  twod",
+        "transformations 2d",
+        "transformations-2d",
+        "transformations2d",
+        "transformations_2d"
+    ],
+    "Simplex": [
+        "simplex"
+    ],
+    "Apriori Algorithm": [
+        "apriori algorithm",
+        "apriori-algorithm",
+        "apriori_algorithm",
+        "apriorialgorithm"
+    ],
+    "Astar": [
+        "a*",
+        "astar"
+    ],
+    "Automatic Differentiation": [
+        "automatic differentiation",
+        "automatic-differentiation",
+        "automatic_differentiation",
+        "automaticdifferentiation"
+    ],
+    "Data Transformations": [
+        "data transformations",
+        "data-transformations",
+        "data_transformations",
+        "datatransformations"
+    ],
+    "Decision Tree": [
+        "decision tree",
+        "decision-tree",
+        "decision_tree",
+        "decisiontree"
+    ],
+    "Dimensionality Reduction": [
+        "dimensionality reduction",
+        "dimensionality-reduction",
+        "dimensionality_reduction",
+        "dimensionalityreduction"
+    ],
+    "Run": [
+        "run"
+    ],
+    "Frequent Pattern Growth": [
+        "frequent pattern growth",
+        "frequent-pattern-growth",
+        "frequent_pattern_growth",
+        "frequentpatterngrowth"
+    ],
+    "Gradient Boosting Classifier": [
+        "gradient boosting classifier",
+        "gradient-boosting-classifier",
+        "gradient_boosting_classifier",
+        "gradientboostingclassifier"
+    ],
+    "Gradient Descent": [
+        "gradient descent",
+        "gradient-descent",
+        "gradient_descent",
+        "gradientdescent"
+    ],
+    "K Means Clust": [
+        "k means clust",
+        "k-means-clust",
+        "k_means_clust",
+        "kmeansclust"
+    ],
+    "K Nearest Neighbours": [
+        "k nearest neighbours",
+        "k-nearest-neighbours",
+        "k_nearest_neighbours",
+        "knearestneighbours",
+        "knn"
+    ],
+    "Linear Discriminant Analysis": [
+        "linear discriminant analysis",
+        "linear-discriminant-analysis",
+        "linear_discriminant_analysis",
+        "lineardiscriminantanalysis"
+    ],
+    "Linear Regression": [
+        "linear regression",
+        "linear-regression",
+        "linear_regression",
+        "linearregression",
+        "linreg"
+    ],
+    "Local Weighted Learning": [
+        "local weighted learning",
+        "local-weighted-learning",
+        "local_weighted_learning",
+        "localweightedlearning"
+    ],
+    "Logistic Regression": [
+        "logistic regression",
+        "logistic-regression",
+        "logistic_regression",
+        "logisticregression",
+        "logreg"
+    ],
+    "Loss Functions": [
+        "loss functions",
+        "loss-functions",
+        "loss_functions",
+        "lossfunctions"
+    ],
+    "Lstm Prediction": [
+        "lstm",
+        "lstm prediction",
+        "lstm-prediction",
+        "lstm_prediction",
+        "lstmprediction"
+    ],
+    "Mfcc": [
+        "mfcc"
+    ],
+    "Multilayer Perceptron Classifier": [
+        "multilayer perceptron classifier",
+        "multilayer-perceptron-classifier",
+        "multilayer_perceptron_classifier",
+        "multilayerperceptronclassifier"
+    ],
+    "Polynomial Regression": [
+        "polynomial regression",
+        "polynomial-regression",
+        "polynomial_regression",
+        "polynomialregression"
+    ],
+    "Principle Component Analysis": [
+        "pca",
+        "principle component analysis",
+        "principle-component-analysis",
+        "principle_component_analysis",
+        "principlecomponentanalysis"
+    ],
+    "Scoring Functions": [
+        "scoring functions",
+        "scoring-functions",
+        "scoring_functions",
+        "scoringfunctions"
+    ],
+    "Self Organizing Map": [
+        "self organizing map",
+        "self-organizing-map",
+        "self_organizing_map",
+        "selforganizingmap"
+    ],
+    "Sequential Minimum Optimization": [
+        "sequential minimum optimization",
+        "sequential-minimum-optimization",
+        "sequential_minimum_optimization",
+        "sequentialminimumoptimization"
+    ],
+    "Similarity Search": [
+        "similarity search",
+        "similarity-search",
+        "similarity_search",
+        "similaritysearch"
+    ],
+    "Support Vector Machines": [
+        "support vector machines",
+        "support-vector-machines",
+        "support_vector_machines",
+        "supportvectormachines",
+        "svm"
+    ],
+    "T Stochastic Neighbour Embedding": [
+        "t stochastic neighbour embedding",
+        "t-stochastic-neighbour-embedding",
+        "t_stochastic_neighbour_embedding",
+        "tstochasticneighbourembedding"
+    ],
+    "Word Frequency Functions": [
+        "word frequency functions",
+        "word-frequency-functions",
+        "word_frequency_functions",
+        "wordfrequencyfunctions"
+    ],
+    "Xgboost Classifier": [
+        "xgboost classifier",
+        "xgboost-classifier",
+        "xgboost_classifier",
+        "xgboostclassifier"
+    ],
+    "Xgboost Regressor": [
+        "xgboost regressor",
+        "xgboost-regressor",
+        "xgboost_regressor",
+        "xgboostregressor"
+    ],
+    "Abs": [
+        "abs"
+    ],
+    "Addition Without Arithmetic": [
+        "addition without arithmetic",
+        "addition-without-arithmetic",
+        "addition_without_arithmetic",
+        "additionwithoutarithmetic"
+    ],
+    "Aliquot Sum": [
+        "aliquot sum",
+        "aliquot-sum",
+        "aliquot_sum",
+        "aliquotsum"
+    ],
+    "Allocation Number": [
+        "allocation number",
+        "allocation-number",
+        "allocation_number",
+        "allocationnumber"
+    ],
+    "Arc Length": [
+        "arc length",
+        "arc-length",
+        "arc_length",
+        "arclength"
+    ],
+    "Area": [
+        "area"
+    ],
+    "Area Under Curve": [
+        "area under curve",
+        "area-under-curve",
+        "area_under_curve",
+        "areaundercurve"
+    ],
+    "Average Absolute Deviation": [
+        "average absolute deviation",
+        "average-absolute-deviation",
+        "average_absolute_deviation",
+        "averageabsolutedeviation"
+    ],
+    "Average Mean": [
+        "average mean",
+        "average-mean",
+        "average_mean",
+        "averagemean"
+    ],
+    "Average Median": [
+        "average median",
+        "average-median",
+        "average_median",
+        "averagemedian"
+    ],
+    "Average Mode": [
+        "average mode",
+        "average-mode",
+        "average_mode",
+        "averagemode"
+    ],
+    "Bailey Borwein Plouffe": [
+        "bailey borwein plouffe",
+        "bailey-borwein-plouffe",
+        "bailey_borwein_plouffe",
+        "baileyborweinplouffe"
+    ],
+    "Base Neg2 Conversion": [
+        "base neg 2 conversion",
+        "base neg two conversion",
+        "base neg2 conversion",
+        "base-neg2-conversion",
+        "base_neg2_conversion",
+        "baseneg2conversion"
+    ],
+    "Basic Maths": [
+        "basic maths",
+        "basic-maths",
+        "basic_maths",
+        "basicmaths"
+    ],
+    "Binary Exponentiation": [
+        "binary exponentiation",
+        "binary-exponentiation",
+        "binary_exponentiation",
+        "binaryexponentiation"
+    ],
+    "Binary Multiplication": [
+        "binary multiplication",
+        "binary-multiplication",
+        "binary_multiplication",
+        "binarymultiplication"
+    ],
+    "Binomial Coefficient": [
+        "binomial coefficient",
+        "binomial-coefficient",
+        "binomial_coefficient",
+        "binomialcoefficient"
+    ],
+    "Binomial Distribution": [
+        "binomial distribution",
+        "binomial-distribution",
+        "binomial_distribution",
+        "binomialdistribution"
+    ],
+    "Ceil": [
+        "ceil"
+    ],
+    "Chebyshev Distance": [
+        "chebyshev distance",
+        "chebyshev-distance",
+        "chebyshev_distance",
+        "chebyshevdistance"
+    ],
+    "Check Polygon": [
+        "check polygon",
+        "check-polygon",
+        "check_polygon",
+        "checkpolygon"
+    ],
+    "Chinese Remainder Theorem": [
+        "chinese remainder theorem",
+        "chinese-remainder-theorem",
+        "chinese_remainder_theorem",
+        "chineseremaindertheorem"
+    ],
+    "Chudnovsky Algorithm": [
+        "chudnovsky algorithm",
+        "chudnovsky-algorithm",
+        "chudnovsky_algorithm",
+        "chudnovskyalgorithm"
+    ],
+    "Collatz Sequence": [
+        "collatz sequence",
+        "collatz-sequence",
+        "collatz_sequence",
+        "collatzsequence"
+    ],
+    "Combinations": [
+        "combinations"
+    ],
+    "Continued Fraction": [
+        "continued fraction",
+        "continued-fraction",
+        "continued_fraction",
+        "continuedfraction"
+    ],
+    "Decimal Isolate": [
+        "decimal isolate",
+        "decimal-isolate",
+        "decimal_isolate",
+        "decimalisolate"
+    ],
+    "Decimal To Fraction": [
+        "decimal to fraction",
+        "decimal-to-fraction",
+        "decimal_to_fraction",
+        "decimaltofraction"
+    ],
+    "Dodecahedron": [
+        "dodecahedron"
+    ],
+    "Double Factorial": [
+        "double factorial",
+        "double-factorial",
+        "double_factorial",
+        "doublefactorial"
+    ],
+    "Dual Number Automatic Differentiation": [
+        "dual number automatic differentiation",
+        "dual-number-automatic-differentiation",
+        "dual_number_automatic_differentiation",
+        "dualnumberautomaticdifferentiation"
+    ],
+    "Entropy": [
+        "entropy"
+    ],
+    "Euclidean Distance": [
+        "euclidean distance",
+        "euclidean-distance",
+        "euclidean_distance",
+        "euclideandistance"
+    ],
+    "Euler Method": [
+        "euler method",
+        "euler-method",
+        "euler_method",
+        "eulermethod"
+    ],
+    "Euler Modified": [
+        "euler modified",
+        "euler-modified",
+        "euler_modified",
+        "eulermodified"
+    ],
+    "Eulers Totient": [
+        "eulers totient",
+        "eulers-totient",
+        "eulers_totient",
+        "eulerstotient"
+    ],
+    "Extended Euclidean Algorithm": [
+        "extended euclidean algorithm",
+        "extended-euclidean-algorithm",
+        "extended_euclidean_algorithm",
+        "extendedeuclideanalgorithm"
+    ],
+    "Factors": [
+        "factors"
+    ],
+    "Fast Inverse Sqrt": [
+        "fast inverse sqrt",
+        "fast-inverse-sqrt",
+        "fast_inverse_sqrt",
+        "fastinversesqrt"
+    ],
+    "Fermat Little Theorem": [
+        "fermat little theorem",
+        "fermat-little-theorem",
+        "fermat_little_theorem",
+        "fermatlittletheorem"
+    ],
+    "Find Max": [
+        "find max",
+        "find-max",
+        "find_max",
+        "findmax"
+    ],
+    "Find Min": [
+        "find min",
+        "find-min",
+        "find_min",
+        "findmin"
+    ],
+    "Floor": [
+        "floor"
+    ],
+    "Gamma": [
+        "gamma"
+    ],
+    "Gaussian": [
+        "gaussian"
+    ],
+    "Gcd Of N Numbers": [
+        "gcd of n numbers",
+        "gcd-of-n-numbers",
+        "gcd_of_n_numbers",
+        "gcdofnnumbers"
+    ],
+    "Geometric Mean": [
+        "geometric mean",
+        "geometric-mean",
+        "geometric_mean",
+        "geometricmean"
+    ],
+    "Germain Primes": [
+        "germain primes",
+        "germain-primes",
+        "germain_primes",
+        "germainprimes"
+    ],
+    "Greatest Common Divisor": [
+        "greatest common divisor",
+        "greatest-common-divisor",
+        "greatest_common_divisor",
+        "greatestcommondivisor"
+    ],
+    "Hardy Ramanujanalgo": [
+        "hardy ramanujanalgo",
+        "hardy-ramanujanalgo",
+        "hardy_ramanujanalgo",
+        "hardyramanujanalgo"
+    ],
+    "Integer Square Root": [
+        "integer square root",
+        "integer-square-root",
+        "integer_square_root",
+        "integersquareroot"
+    ],
+    "Interquartile Range": [
+        "interquartile range",
+        "interquartile-range",
+        "interquartile_range",
+        "interquartilerange"
+    ],
+    "Is Int Palindrome": [
+        "is int palindrome",
+        "is-int-palindrome",
+        "is_int_palindrome",
+        "isintpalindrome"
+    ],
+    "Is Ip V4 Address Valid": [
+        "is ip v 4 address valid",
+        "is ip v4 address valid",
+        "is-ip-v4-address-valid",
+        "is_ip_v4_address_valid",
+        "isipv4addressvalid"
+    ],
+    "Is Square Free": [
+        "is square free",
+        "is-square-free",
+        "is_square_free",
+        "issquarefree"
+    ],
+    "Jaccard Similarity": [
+        "jaccard similarity",
+        "jaccard-similarity",
+        "jaccard_similarity",
+        "jaccardsimilarity"
+    ],
+    "Joint Probability Distribution": [
+        "joint probability distribution",
+        "joint-probability-distribution",
+        "joint_probability_distribution",
+        "jointprobabilitydistribution"
+    ],
+    "Josephus Problem": [
+        "josephus problem",
+        "josephus-problem",
+        "josephus_problem",
+        "josephusproblem"
+    ],
+    "Juggler Sequence": [
+        "juggler sequence",
+        "juggler-sequence",
+        "juggler_sequence",
+        "jugglersequence"
+    ],
+    "Karatsuba": [
+        "karatsuba"
+    ],
+    "Kth Lexicographic Permutation": [
+        "kth lexicographic permutation",
+        "kth-lexicographic-permutation",
+        "kth_lexicographic_permutation",
+        "kthlexicographicpermutation"
+    ],
+    "Largest Of Very Large Numbers": [
+        "largest of very large numbers",
+        "largest-of-very-large-numbers",
+        "largest_of_very_large_numbers",
+        "largestofverylargenumbers"
+    ],
+    "Least Common Multiple": [
+        "least common multiple",
+        "least-common-multiple",
+        "least_common_multiple",
+        "leastcommonmultiple"
+    ],
+    "Line Length": [
+        "line length",
+        "line-length",
+        "line_length",
+        "linelength"
+    ],
+    "Liouville Lambda": [
+        "liouville lambda",
+        "liouville-lambda",
+        "liouville_lambda",
+        "liouvillelambda"
+    ],
+    "Lucas Lehmer Primality Test": [
+        "lucas lehmer primality test",
+        "lucas-lehmer-primality-test",
+        "lucas_lehmer_primality_test",
+        "lucaslehmerprimalitytest"
+    ],
+    "Lucas Series": [
+        "lucas series",
+        "lucas-series",
+        "lucas_series",
+        "lucasseries"
+    ],
+    "Maclaurin Series": [
+        "maclaurin series",
+        "maclaurin-series",
+        "maclaurin_series",
+        "maclaurinseries"
+    ],
+    "Manhattan Distance": [
+        "manhattan distance",
+        "manhattan-distance",
+        "manhattan_distance",
+        "manhattandistance"
+    ],
+    "Matrix Exponentiation": [
+        "matrix exponentiation",
+        "matrix-exponentiation",
+        "matrix_exponentiation",
+        "matrixexponentiation"
+    ],
+    "Max Sum Sliding Window": [
+        "max sum sliding window",
+        "max-sum-sliding-window",
+        "max_sum_sliding_window",
+        "maxsumslidingwindow"
+    ],
+    "Minkowski Distance": [
+        "minkowski distance",
+        "minkowski-distance",
+        "minkowski_distance",
+        "minkowskidistance"
+    ],
+    "Mobius Function": [
+        "mobius function",
+        "mobius-function",
+        "mobius_function",
+        "mobiusfunction"
+    ],
+    "Modular Division": [
+        "modular division",
+        "modular-division",
+        "modular_division",
+        "modulardivision"
+    ],
+    "Modular Exponential": [
+        "modular exponential",
+        "modular-exponential",
+        "modular_exponential",
+        "modularexponential"
+    ],
+    "Monte Carlo": [
+        "monte carlo",
+        "monte-carlo",
+        "monte_carlo",
+        "montecarlo"
+    ],
+    "Monte Carlo Dice": [
+        "monte carlo dice",
+        "monte-carlo-dice",
+        "monte_carlo_dice",
+        "montecarlodice"
+    ],
+    "Number Of Digits": [
+        "number of digits",
+        "number-of-digits",
+        "number_of_digits",
+        "numberofdigits"
+    ],
+    "Adams Bashforth": [
+        "adams bashforth",
+        "adams-bashforth",
+        "adams_bashforth",
+        "adamsbashforth"
+    ],
+    "Bisection": [
+        "bisection"
+    ],
+    "Bisection 2": [
+        "bisection  2",
+        "bisection  two",
+        "bisection 2",
+        "bisection-2",
+        "bisection2",
+        "bisection_2"
+    ],
+    "Integration By Simpson Approx": [
+        "integration by simpson approx",
+        "integration-by-simpson-approx",
+        "integration_by_simpson_approx",
+        "integrationbysimpsonapprox"
+    ],
+    "Intersection": [
+        "intersection"
+    ],
+    "Nevilles Method": [
+        "nevilles method",
+        "nevilles-method",
+        "nevilles_method",
+        "nevillesmethod"
+    ],
+    "Newton Forward Interpolation": [
+        "newton forward interpolation",
+        "newton-forward-interpolation",
+        "newton_forward_interpolation",
+        "newtonforwardinterpolation"
+    ],
+    "Newton Raphson": [
+        "newton raphson",
+        "newton-raphson",
+        "newton_raphson",
+        "newtonraphson"
+    ],
+    "Numerical Integration": [
+        "numerical integration",
+        "numerical-integration",
+        "numerical_integration",
+        "numericalintegration"
+    ],
+    "Proper Fractions": [
+        "proper fractions",
+        "proper-fractions",
+        "proper_fractions",
+        "properfractions"
+    ],
+    "Runge Kutta": [
+        "runge kutta",
+        "runge-kutta",
+        "runge_kutta",
+        "rungekutta"
+    ],
+    "Runge Kutta Fehlberg 45": [
+        "runge kutta fehlberg  45",
+        "runge kutta fehlberg 45",
+        "runge-kutta-fehlberg-45",
+        "runge_kutta_fehlberg_45",
+        "rungekuttafehlberg45"
+    ],
+    "Runge Kutta Gills": [
+        "runge kutta gills",
+        "runge-kutta-gills",
+        "runge_kutta_gills",
+        "rungekuttagills"
+    ],
+    "Secant Method": [
+        "secant method",
+        "secant-method",
+        "secant_method",
+        "secantmethod"
+    ],
+    "Simpson Rule": [
+        "simpson rule",
+        "simpson-rule",
+        "simpson_rule",
+        "simpsonrule"
+    ],
+    "Square Root": [
+        "square root",
+        "square-root",
+        "square_root",
+        "squareroot"
+    ],
+    "Weierstrass Method": [
+        "weierstrass method",
+        "weierstrass-method",
+        "weierstrass_method",
+        "weierstrassmethod"
+    ],
+    "Odd Sieve": [
+        "odd sieve",
+        "odd-sieve",
+        "odd_sieve",
+        "oddsieve"
+    ],
+    "Perfect Cube": [
+        "perfect cube",
+        "perfect-cube",
+        "perfect_cube",
+        "perfectcube"
+    ],
+    "Perfect Number": [
+        "perfect number",
+        "perfect-number",
+        "perfect_number",
+        "perfectnumber"
+    ],
+    "Perfect Square": [
+        "perfect square",
+        "perfect-square",
+        "perfect_square",
+        "perfectsquare"
+    ],
+    "Persistence": [
+        "persistence"
+    ],
+    "Pi Generator": [
+        "pi generator",
+        "pi-generator",
+        "pi_generator",
+        "pigenerator"
+    ],
+    "Pi Monte Carlo Estimation": [
+        "pi monte carlo estimation",
+        "pi-monte-carlo-estimation",
+        "pi_monte_carlo_estimation",
+        "pimontecarloestimation"
+    ],
+    "Points Are Collinear 3D": [
+        "points are collinear  3d",
+        "points are collinear 3d",
+        "points-are-collinear-3d",
+        "points_are_collinear_3d",
+        "pointsarecollinear3d"
+    ],
+    "Pollard Rho": [
+        "pollard rho",
+        "pollard-rho",
+        "pollard_rho",
+        "pollardrho"
+    ],
+    "Polynomial Evaluation": [
+        "polynomial evaluation",
+        "polynomial-evaluation",
+        "polynomial_evaluation",
+        "polynomialevaluation"
+    ],
+    "Single Indeterminate Operations": [
+        "single indeterminate operations",
+        "single-indeterminate-operations",
+        "single_indeterminate_operations",
+        "singleindeterminateoperations"
+    ],
+    "Power Using Recursion": [
+        "power using recursion",
+        "power-using-recursion",
+        "power_using_recursion",
+        "powerusingrecursion"
+    ],
+    "Prime Check": [
+        "prime check",
+        "prime-check",
+        "prime_check",
+        "primecheck"
+    ],
+    "Prime Factors": [
+        "prime factors",
+        "prime-factors",
+        "prime_factors",
+        "primefactors"
+    ],
+    "Prime Sieve Eratosthenes": [
+        "prime sieve eratosthenes",
+        "prime-sieve-eratosthenes",
+        "prime_sieve_eratosthenes",
+        "primesieveeratosthenes"
+    ],
+    "Primelib": [
+        "primelib"
+    ],
+    "Print Multiplication Table": [
+        "print multiplication table",
+        "print-multiplication-table",
+        "print_multiplication_table",
+        "printmultiplicationtable"
+    ],
+    "Pythagoras": [
+        "pythagoras"
+    ],
+    "Qr Decomposition": [
+        "qr decomposition",
+        "qr-decomposition",
+        "qr_decomposition",
+        "qrdecomposition"
+    ],
+    "Quadratic Equations Complex Numbers": [
+        "quadratic equations complex numbers",
+        "quadratic-equations-complex-numbers",
+        "quadratic_equations_complex_numbers",
+        "quadraticequationscomplexnumbers"
+    ],
+    "Radians": [
+        "radians"
+    ],
+    "Radix2 Fft": [
+        "radix 2 fft",
+        "radix two fft",
+        "radix2 fft",
+        "radix2-fft",
+        "radix2_fft",
+        "radix2fft"
+    ],
+    "Remove Digit": [
+        "remove digit",
+        "remove-digit",
+        "remove_digit",
+        "removedigit"
+    ],
+    "Segmented Sieve": [
+        "segmented sieve",
+        "segmented-sieve",
+        "segmented_sieve",
+        "segmentedsieve"
+    ],
+    "Arithmetic": [
+        "arithmetic"
+    ],
+    "Geometric": [
+        "geometric"
+    ],
+    "Geometric Series": [
+        "geometric series",
+        "geometric-series",
+        "geometric_series",
+        "geometricseries"
+    ],
+    "Harmonic": [
+        "harmonic"
+    ],
+    "Harmonic Series": [
+        "harmonic series",
+        "harmonic-series",
+        "harmonic_series",
+        "harmonicseries"
+    ],
+    "Hexagonal Numbers": [
+        "hexagonal numbers",
+        "hexagonal-numbers",
+        "hexagonal_numbers",
+        "hexagonalnumbers"
+    ],
+    "P Series": [
+        "p series",
+        "p-series",
+        "p_series",
+        "pseries"
+    ],
+    "Sieve Of Eratosthenes": [
+        "sieve of eratosthenes",
+        "sieve-of-eratosthenes",
+        "sieve_of_eratosthenes",
+        "sieveoferatosthenes"
+    ],
+    "Sigmoid": [
+        "sigmoid"
+    ],
+    "Signum": [
+        "signum"
+    ],
+    "Simultaneous Linear Equation Solver": [
+        "simultaneous linear equation solver",
+        "simultaneous-linear-equation-solver",
+        "simultaneous_linear_equation_solver",
+        "simultaneouslinearequationsolver"
+    ],
+    "Sin": [
+        "sin"
+    ],
+    "Sock Merchant": [
+        "sock merchant",
+        "sock-merchant",
+        "sock_merchant",
+        "sockmerchant"
+    ],
+    "Softmax": [
+        "softmax"
+    ],
+    "Solovay Strassen Primality Test": [
+        "solovay strassen primality test",
+        "solovay-strassen-primality-test",
+        "solovay_strassen_primality_test",
+        "solovaystrassenprimalitytest"
+    ],
+    "Spearman Rank Correlation Coefficient": [
+        "spearman rank correlation coefficient",
+        "spearman-rank-correlation-coefficient",
+        "spearman_rank_correlation_coefficient",
+        "spearmanrankcorrelationcoefficient"
+    ],
+    "Armstrong Numbers": [
+        "armstrong numbers",
+        "armstrong-numbers",
+        "armstrong_numbers",
+        "armstrongnumbers"
+    ],
+    "Automorphic Number": [
+        "automorphic number",
+        "automorphic-number",
+        "automorphic_number",
+        "automorphicnumber"
+    ],
+    "Bell Numbers": [
+        "bell numbers",
+        "bell-numbers",
+        "bell_numbers",
+        "bellnumbers"
+    ],
+    "Carmichael Number": [
+        "carmichael number",
+        "carmichael-number",
+        "carmichael_number",
+        "carmichaelnumber"
+    ],
+    "Catalan Number": [
+        "catalan number",
+        "catalan-number",
+        "catalan_number",
+        "catalannumber"
+    ],
+    "Hamming Numbers": [
+        "hamming numbers",
+        "hamming-numbers",
+        "hamming_numbers",
+        "hammingnumbers"
+    ],
+    "Happy Number": [
+        "happy number",
+        "happy-number",
+        "happy_number",
+        "happynumber"
+    ],
+    "Harshad Numbers": [
+        "harshad numbers",
+        "harshad-numbers",
+        "harshad_numbers",
+        "harshadnumbers"
+    ],
+    "Hexagonal Number": [
+        "hexagonal number",
+        "hexagonal-number",
+        "hexagonal_number",
+        "hexagonalnumber"
+    ],
+    "Krishnamurthy Number": [
+        "krishnamurthy number",
+        "krishnamurthy-number",
+        "krishnamurthy_number",
+        "krishnamurthynumber"
+    ],
+    "Polygonal Numbers": [
+        "polygonal numbers",
+        "polygonal-numbers",
+        "polygonal_numbers",
+        "polygonalnumbers"
+    ],
+    "Pronic Number": [
+        "pronic number",
+        "pronic-number",
+        "pronic_number",
+        "pronicnumber"
+    ],
+    "Proth Number": [
+        "proth number",
+        "proth-number",
+        "proth_number",
+        "prothnumber"
+    ],
+    "Triangular Numbers": [
+        "triangular numbers",
+        "triangular-numbers",
+        "triangular_numbers",
+        "triangularnumbers"
+    ],
+    "Ugly Numbers": [
+        "ugly numbers",
+        "ugly-numbers",
+        "ugly_numbers",
+        "uglynumbers"
+    ],
+    "Weird Number": [
+        "weird number",
+        "weird-number",
+        "weird_number",
+        "weirdnumber"
+    ],
+    "Sum Of Arithmetic Series": [
+        "sum of arithmetic series",
+        "sum-of-arithmetic-series",
+        "sum_of_arithmetic_series",
+        "sumofarithmeticseries"
+    ],
+    "Sum Of Digits": [
+        "sum of digits",
+        "sum-of-digits",
+        "sum_of_digits",
+        "sumofdigits"
+    ],
+    "Sum Of Geometric Progression": [
+        "sum of geometric progression",
+        "sum-of-geometric-progression",
+        "sum_of_geometric_progression",
+        "sumofgeometricprogression"
+    ],
+    "Sum Of Harmonic Series": [
+        "sum of harmonic series",
+        "sum-of-harmonic-series",
+        "sum_of_harmonic_series",
+        "sumofharmonicseries"
+    ],
+    "Sumset": [
+        "sumset"
+    ],
+    "Sylvester Sequence": [
+        "sylvester sequence",
+        "sylvester-sequence",
+        "sylvester_sequence",
+        "sylvestersequence"
+    ],
+    "Tanh": [
+        "tanh"
+    ],
+    "Test Factorial": [
+        "test factorial",
+        "test-factorial",
+        "test_factorial",
+        "testfactorial"
+    ],
+    "Test Prime Check": [
+        "test prime check",
+        "test-prime-check",
+        "test_prime_check",
+        "testprimecheck"
+    ],
+    "Three Sum": [
+        "three sum",
+        "three-sum",
+        "three_sum",
+        "threesum"
+    ],
+    "Trapezoidal Rule": [
+        "trapezoidal rule",
+        "trapezoidal-rule",
+        "trapezoidal_rule",
+        "trapezoidalrule"
+    ],
+    "Triplet Sum": [
+        "triplet sum",
+        "triplet-sum",
+        "triplet_sum",
+        "tripletsum"
+    ],
+    "Twin Prime": [
+        "twin prime",
+        "twin-prime",
+        "twin_prime",
+        "twinprime"
+    ],
+    "Two Pointer": [
+        "two pointer",
+        "two-pointer",
+        "two_pointer",
+        "twopointer"
+    ],
+    "Two Sum": [
+        "two sum",
+        "two-sum",
+        "two_sum",
+        "twosum"
+    ],
+    "Volume": [
+        "volume"
+    ],
+    "Zellers Congruence": [
+        "zellers congruence",
+        "zellers-congruence",
+        "zellers_congruence",
+        "zellerscongruence"
+    ],
+    "Binary Search Matrix": [
+        "binary search matrix",
+        "binary-search-matrix",
+        "binary_search_matrix",
+        "binarysearchmatrix"
+    ],
+    "Count Islands In Matrix": [
+        "count islands in matrix",
+        "count-islands-in-matrix",
+        "count_islands_in_matrix",
+        "countislandsinmatrix"
+    ],
+    "Count Negative Numbers In Sorted Matrix": [
+        "count negative numbers in sorted matrix",
+        "count-negative-numbers-in-sorted-matrix",
+        "count_negative_numbers_in_sorted_matrix",
+        "countnegativenumbersinsortedmatrix"
+    ],
+    "Count Paths": [
+        "count paths",
+        "count-paths",
+        "count_paths",
+        "countpaths"
+    ],
+    "Cramers Rule 2X2": [
+        "cramers rule  2x 2",
+        "cramers rule  twox two",
+        "cramers rule 2x2",
+        "cramers-rule-2x2",
+        "cramers_rule_2x2",
+        "cramersrule2x2"
+    ],
+    "Inverse Of Matrix": [
+        "inverse of matrix",
+        "inverse-of-matrix",
+        "inverse_of_matrix",
+        "inverseofmatrix"
+    ],
+    "Largest Square Area In Matrix": [
+        "largest square area in matrix",
+        "largest-square-area-in-matrix",
+        "largest_square_area_in_matrix",
+        "largestsquareareainmatrix"
+    ],
+    "Matrix Based Game": [
+        "matrix based game",
+        "matrix-based-game",
+        "matrix_based_game",
+        "matrixbasedgame"
+    ],
+    "Matrix Class": [
+        "matrix class",
+        "matrix-class",
+        "matrix_class",
+        "matrixclass"
+    ],
+    "Matrix Equalization": [
+        "matrix equalization",
+        "matrix-equalization",
+        "matrix_equalization",
+        "matrixequalization"
+    ],
+    "Matrix Multiplication Recursion": [
+        "matrix multiplication recursion",
+        "matrix-multiplication-recursion",
+        "matrix_multiplication_recursion",
+        "matrixmultiplicationrecursion"
+    ],
+    "Matrix Operation": [
+        "matrix operation",
+        "matrix-operation",
+        "matrix_operation",
+        "matrixoperation"
+    ],
+    "Max Area Of Island": [
+        "max area of island",
+        "max-area-of-island",
+        "max_area_of_island",
+        "maxareaofisland"
+    ],
+    "Median Matrix": [
+        "median matrix",
+        "median-matrix",
+        "median_matrix",
+        "medianmatrix"
+    ],
+    "Nth Fibonacci Using Matrix Exponentiation": [
+        "nth fibonacci using matrix exponentiation",
+        "nth-fibonacci-using-matrix-exponentiation",
+        "nth_fibonacci_using_matrix_exponentiation",
+        "nthfibonacciusingmatrixexponentiation"
+    ],
+    "Pascal Triangle": [
+        "pascal triangle",
+        "pascal-triangle",
+        "pascal_triangle",
+        "pascaltriangle"
+    ],
+    "Rotate Matrix": [
+        "rotate matrix",
+        "rotate-matrix",
+        "rotate_matrix",
+        "rotatematrix"
+    ],
+    "Searching In Sorted Matrix": [
+        "searching in sorted matrix",
+        "searching-in-sorted-matrix",
+        "searching_in_sorted_matrix",
+        "searchinginsortedmatrix"
+    ],
+    "Sherman Morrison": [
+        "sherman morrison",
+        "sherman-morrison",
+        "sherman_morrison",
+        "shermanmorrison"
+    ],
+    "Spiral Print": [
+        "spiral print",
+        "spiral-print",
+        "spiral_print",
+        "spiralprint"
+    ],
+    "Test Matrix Operation": [
+        "test matrix operation",
+        "test-matrix-operation",
+        "test_matrix_operation",
+        "testmatrixoperation"
+    ],
+    "Validate Sudoku Board": [
+        "validate sudoku board",
+        "validate-sudoku-board",
+        "validate_sudoku_board",
+        "validatesudokuboard"
+    ],
+    "Ford Fulkerson": [
+        "ford fulkerson",
+        "ford-fulkerson",
+        "ford_fulkerson",
+        "fordfulkerson"
+    ],
+    "Minimum Cut": [
+        "minimum cut",
+        "minimum-cut",
+        "minimum_cut",
+        "minimumcut"
+    ],
+    "Binary Step": [
+        "binary step",
+        "binary-step",
+        "binary_step",
+        "binarystep"
+    ],
+    "Exponential Linear Unit": [
+        "exponential linear unit",
+        "exponential-linear-unit",
+        "exponential_linear_unit",
+        "exponentiallinearunit"
+    ],
+    "Gaussian Error Linear Unit": [
+        "gaussian error linear unit",
+        "gaussian-error-linear-unit",
+        "gaussian_error_linear_unit",
+        "gaussianerrorlinearunit",
+        "gelu"
+    ],
+    "Leaky Rectified Linear Unit": [
+        "leaky rectified linear unit",
+        "leaky relu",
+        "leaky-rectified-linear-unit",
+        "leaky_rectified_linear_unit",
+        "leakyrectifiedlinearunit"
+    ],
+    "Mish": [
+        "mish"
+    ],
+    "Rectified Linear Unit": [
+        "rectified linear unit",
+        "rectified-linear-unit",
+        "rectified_linear_unit",
+        "rectifiedlinearunit",
+        "relu"
+    ],
+    "Scaled Exponential Linear Unit": [
+        "scaled exponential linear unit",
+        "scaled-exponential-linear-unit",
+        "scaled_exponential_linear_unit",
+        "scaledexponentiallinearunit",
+        "selu"
+    ],
+    "Soboleva Modified Hyperbolic Tangent": [
+        "soboleva modified hyperbolic tangent",
+        "soboleva-modified-hyperbolic-tangent",
+        "soboleva_modified_hyperbolic_tangent",
+        "sobolevamodifiedhyperbolictangent"
+    ],
+    "Softplus": [
+        "softplus"
+    ],
+    "Squareplus": [
+        "squareplus"
+    ],
+    "Swish": [
+        "swish"
+    ],
+    "Back Propagation Neural Network": [
+        "back propagation neural network",
+        "back-propagation-neural-network",
+        "back_propagation_neural_network",
+        "backpropagationneuralnetwork"
+    ],
+    "Convolution Neural Network": [
+        "cnn",
+        "convolution neural network",
+        "convolution-neural-network",
+        "convolution_neural_network",
+        "convolutionneuralnetwork"
+    ],
+    "Input Data": [
+        "input data",
+        "input-data",
+        "input_data",
+        "inputdata"
+    ],
+    "Simple Neural Network": [
+        "simple neural network",
+        "simple-neural-network",
+        "simple_neural_network",
+        "simpleneuralnetwork"
+    ],
+    "Two Hidden Layers Neural Network": [
+        "two hidden layers neural network",
+        "two-hidden-layers-neural-network",
+        "two_hidden_layers_neural_network",
+        "twohiddenlayersneuralnetwork"
+    ],
+    "Activity Selection": [
+        "activity selection",
+        "activity-selection",
+        "activity_selection",
+        "activityselection"
+    ],
+    "Alternative List Arrange": [
+        "alternative list arrange",
+        "alternative-list-arrange",
+        "alternative_list_arrange",
+        "alternativelistarrange"
+    ],
+    "Bankers Algorithm": [
+        "bankers algorithm",
+        "bankers-algorithm",
+        "bankers_algorithm",
+        "bankersalgorithm"
+    ],
+    "Davis Putnam Logemann Loveland": [
+        "davis putnam logemann loveland",
+        "davis-putnam-logemann-loveland",
+        "davis_putnam_logemann_loveland",
+        "davisputnamlogemannloveland"
+    ],
+    "Doomsday": [
+        "doomsday"
+    ],
+    "Fischer Yates Shuffle": [
+        "fischer yates shuffle",
+        "fischer-yates-shuffle",
+        "fischer_yates_shuffle",
+        "fischeryatesshuffle"
+    ],
+    "Gauss Easter": [
+        "gauss easter",
+        "gauss-easter",
+        "gauss_easter",
+        "gausseaster"
+    ],
+    "Graham Scan": [
+        "graham scan",
+        "graham-scan",
+        "graham_scan",
+        "grahamscan"
+    ],
+    "Greedy": [
+        "greedy"
+    ],
+    "Guess The Number Search": [
+        "guess the number search",
+        "guess-the-number-search",
+        "guess_the_number_search",
+        "guessthenumbersearch"
+    ],
+    "H Index": [
+        "h index",
+        "h-index",
+        "h_index",
+        "hindex"
+    ],
+    "Least Recently Used": [
+        "least recently used",
+        "least-recently-used",
+        "least_recently_used",
+        "leastrecentlyused"
+    ],
+    "Lfu Cache": [
+        "lfu cache",
+        "lfu-cache",
+        "lfu_cache",
+        "lfucache"
+    ],
+    "Linear Congruential Generator": [
+        "linear congruential generator",
+        "linear-congruential-generator",
+        "linear_congruential_generator",
+        "linearcongruentialgenerator"
+    ],
+    "Lru Cache": [
+        "lru cache",
+        "lru-cache",
+        "lru_cache",
+        "lrucache"
+    ],
+    "Magicdiamondpattern": [
+        "magicdiamondpattern"
+    ],
+    "Majority Vote Algorithm": [
+        "majority vote algorithm",
+        "majority-vote-algorithm",
+        "majority_vote_algorithm",
+        "majorityvotealgorithm"
+    ],
+    "Maximum Subsequence": [
+        "maximum subsequence",
+        "maximum-subsequence",
+        "maximum_subsequence",
+        "maximumsubsequence"
+    ],
+    "Nested Brackets": [
+        "nested brackets",
+        "nested-brackets",
+        "nested_brackets",
+        "nestedbrackets"
+    ],
+    "Number Container System": [
+        "number container system",
+        "number-container-system",
+        "number_container_system",
+        "numbercontainersystem"
+    ],
+    "Password": [
+        "password"
+    ],
+    "Quine": [
+        "quine"
+    ],
+    "Scoring Algorithm": [
+        "scoring algorithm",
+        "scoring-algorithm",
+        "scoring_algorithm",
+        "scoringalgorithm"
+    ],
+    "Sdes": [
+        "sdes"
+    ],
+    "Sliding Window Maximum": [
+        "sliding window maximum",
+        "sliding-window-maximum",
+        "sliding_window_maximum",
+        "slidingwindowmaximum"
+    ],
+    "Tower Of Hanoi": [
+        "tower of hanoi",
+        "tower-of-hanoi",
+        "tower_of_hanoi",
+        "towerofhanoi"
+    ],
+    "Altitude Pressure": [
+        "altitude pressure",
+        "altitude-pressure",
+        "altitude_pressure",
+        "altitudepressure"
+    ],
+    "Archimedes Principle Of Buoyant Force": [
+        "archimedes principle of buoyant force",
+        "archimedes-principle-of-buoyant-force",
+        "archimedes_principle_of_buoyant_force",
+        "archimedesprincipleofbuoyantforce"
+    ],
+    "Basic Orbital Capture": [
+        "basic orbital capture",
+        "basic-orbital-capture",
+        "basic_orbital_capture",
+        "basicorbitalcapture"
+    ],
+    "Casimir Effect": [
+        "casimir effect",
+        "casimir-effect",
+        "casimir_effect",
+        "casimireffect"
+    ],
+    "Center Of Mass": [
+        "center of mass",
+        "center-of-mass",
+        "center_of_mass",
+        "centerofmass"
+    ],
+    "Centripetal Force": [
+        "centripetal force",
+        "centripetal-force",
+        "centripetal_force",
+        "centripetalforce"
+    ],
+    "Doppler Frequency": [
+        "doppler frequency",
+        "doppler-frequency",
+        "doppler_frequency",
+        "dopplerfrequency"
+    ],
+    "Escape Velocity": [
+        "escape velocity",
+        "escape-velocity",
+        "escape_velocity",
+        "escapevelocity"
+    ],
+    "Grahams Law": [
+        "grahams law",
+        "grahams-law",
+        "grahams_law",
+        "grahamslaw"
+    ],
+    "Horizontal Projectile Motion": [
+        "horizontal projectile motion",
+        "horizontal-projectile-motion",
+        "horizontal_projectile_motion",
+        "horizontalprojectilemotion"
+    ],
+    "Hubble Parameter": [
+        "hubble parameter",
+        "hubble-parameter",
+        "hubble_parameter",
+        "hubbleparameter"
+    ],
+    "Ideal Gas Law": [
+        "ideal gas law",
+        "ideal-gas-law",
+        "ideal_gas_law",
+        "idealgaslaw"
+    ],
+    "In Static Equilibrium": [
+        "in static equilibrium",
+        "in-static-equilibrium",
+        "in_static_equilibrium",
+        "instaticequilibrium"
+    ],
+    "Kinetic Energy": [
+        "kinetic energy",
+        "kinetic-energy",
+        "kinetic_energy",
+        "kineticenergy"
+    ],
+    "Lens Formulae": [
+        "lens formulae",
+        "lens-formulae",
+        "lens_formulae",
+        "lensformulae"
+    ],
+    "Lorentz Transformation Four Vector": [
+        "lorentz transformation four vector",
+        "lorentz-transformation-four-vector",
+        "lorentz_transformation_four_vector",
+        "lorentztransformationfourvector"
+    ],
+    "Malus Law": [
+        "malus law",
+        "malus-law",
+        "malus_law",
+        "maluslaw"
+    ],
+    "Mass Energy Equivalence": [
+        "mass energy equivalence",
+        "mass-energy-equivalence",
+        "mass_energy_equivalence",
+        "massenergyequivalence"
+    ],
+    "Mirror Formulae": [
+        "mirror formulae",
+        "mirror-formulae",
+        "mirror_formulae",
+        "mirrorformulae"
+    ],
+    "N Body Simulation": [
+        "n body simulation",
+        "n-body-simulation",
+        "n_body_simulation",
+        "nbodysimulation"
+    ],
+    "Newtons Law Of Gravitation": [
+        "newtons law of gravitation",
+        "newtons-law-of-gravitation",
+        "newtons_law_of_gravitation",
+        "newtonslawofgravitation"
+    ],
+    "Newtons Second Law Of Motion": [
+        "newtons second law of motion",
+        "newtons-second-law-of-motion",
+        "newtons_second_law_of_motion",
+        "newtonssecondlawofmotion"
+    ],
+    "Orbital Transfer Work": [
+        "orbital transfer work",
+        "orbital-transfer-work",
+        "orbital_transfer_work",
+        "orbitaltransferwork"
+    ],
+    "Period Of Pendulum": [
+        "period of pendulum",
+        "period-of-pendulum",
+        "period_of_pendulum",
+        "periodofpendulum"
+    ],
+    "Photoelectric Effect": [
+        "photoelectric effect",
+        "photoelectric-effect",
+        "photoelectric_effect",
+        "photoelectriceffect"
+    ],
+    "Potential Energy": [
+        "potential energy",
+        "potential-energy",
+        "potential_energy",
+        "potentialenergy"
+    ],
+    "Rainfall Intensity": [
+        "rainfall intensity",
+        "rainfall-intensity",
+        "rainfall_intensity",
+        "rainfallintensity"
+    ],
+    "Reynolds Number": [
+        "reynolds number",
+        "reynolds-number",
+        "reynolds_number",
+        "reynoldsnumber"
+    ],
+    "Rms Speed Of Molecule": [
+        "rms speed of molecule",
+        "rms-speed-of-molecule",
+        "rms_speed_of_molecule",
+        "rmsspeedofmolecule"
+    ],
+    "Shear Stress": [
+        "shear stress",
+        "shear-stress",
+        "shear_stress",
+        "shearstress"
+    ],
+    "Speed Of Sound": [
+        "speed of sound",
+        "speed-of-sound",
+        "speed_of_sound",
+        "speedofsound"
+    ],
+    "Speeds Of Gas Molecules": [
+        "speeds of gas molecules",
+        "speeds-of-gas-molecules",
+        "speeds_of_gas_molecules",
+        "speedsofgasmolecules"
+    ],
+    "Terminal Velocity": [
+        "terminal velocity",
+        "terminal-velocity",
+        "terminal_velocity",
+        "terminalvelocity"
+    ],
+    "Sol1": [
+        "sol1"
+    ],
+    "Sol2": [
+        "sol 2",
+        "sol two",
+        "sol2"
+    ],
+    "Sol3": [
+        "sol 3",
+        "sol3"
+    ],
+    "Sol4": [
+        "sol 4",
+        "sol4"
+    ],
+    "Sol5": [
+        "sol5"
+    ],
+    "Sol6": [
+        "sol6"
+    ],
+    "Sol7": [
+        "sol7"
+    ],
+    "Solution": [
+        "solution"
+    ],
+    "Sol32": [
+        "sol 32",
+        "sol3 2",
+        "sol3 two",
+        "sol32"
+    ],
+    "Solution42": [
+        "solution 42",
+        "solution4 2",
+        "solution4 two",
+        "solution42"
+    ],
+    "Test Poker Hand": [
+        "test poker hand",
+        "test-poker-hand",
+        "test_poker_hand",
+        "testpokerhand"
+    ],
+    "Q Fourier Transform": [
+        "q fourier transform",
+        "q-fourier-transform",
+        "q_fourier_transform",
+        "qfouriertransform"
+    ],
+    "First Come First Served": [
+        "first come first served",
+        "first-come-first-served",
+        "first_come_first_served",
+        "firstcomefirstserved"
+    ],
+    "Highest Response Ratio Next": [
+        "highest response ratio next",
+        "highest-response-ratio-next",
+        "highest_response_ratio_next",
+        "highestresponserationext"
+    ],
+    "Job Sequence With Deadline": [
+        "job sequence with deadline",
+        "job-sequence-with-deadline",
+        "job_sequence_with_deadline",
+        "jobsequencewithdeadline"
+    ],
+    "Job Sequencing With Deadline": [
+        "job sequencing with deadline",
+        "job-sequencing-with-deadline",
+        "job_sequencing_with_deadline",
+        "jobsequencingwithdeadline"
+    ],
+    "Multi Level Feedback Queue": [
+        "multi level feedback queue",
+        "multi-level-feedback-queue",
+        "multi_level_feedback_queue",
+        "multilevelfeedbackqueue"
+    ],
+    "Non Preemptive Shortest Job First": [
+        "non preemptive shortest job first",
+        "non-preemptive-shortest-job-first",
+        "non_preemptive_shortest_job_first",
+        "nonpreemptiveshortestjobfirst"
+    ],
+    "Round Robin": [
+        "round robin",
+        "round-robin",
+        "round_robin",
+        "roundrobin"
+    ],
+    "Shortest Job First": [
+        "shortest job first",
+        "shortest-job-first",
+        "shortest_job_first",
+        "shortestjobfirst"
+    ],
+    "Binary Search": [
+        "binary search",
+        "binary-search",
+        "binary_search",
+        "binarysearch",
+        "bs"
+    ],
+    "Binary Tree Traversal": [
+        "binary tree traversal",
+        "binary-tree-traversal",
+        "binary_tree_traversal",
+        "binarytreetraversal"
+    ],
+    "Double Linear Search": [
+        "double linear search",
+        "double-linear-search",
+        "double_linear_search",
+        "doublelinearsearch"
+    ],
+    "Double Linear Search Recursion": [
+        "double linear search recursion",
+        "double-linear-search-recursion",
+        "double_linear_search_recursion",
+        "doublelinearsearchrecursion"
+    ],
+    "Exponential Search": [
+        "exponential search",
+        "exponential-search",
+        "exponential_search",
+        "exponentialsearch"
+    ],
+    "Fibonacci Search": [
+        "fibonacci search",
+        "fibonacci-search",
+        "fibonacci_search",
+        "fibonaccisearch"
+    ],
+    "Hill Climbing": [
+        "hill climbing",
+        "hill-climbing",
+        "hill_climbing",
+        "hillclimbing"
+    ],
+    "Interpolation Search": [
+        "interpolation search",
+        "interpolation-search",
+        "interpolation_search",
+        "interpolationsearch"
+    ],
+    "Jump Search": [
+        "jump search",
+        "jump-search",
+        "jump_search",
+        "jumpsearch"
+    ],
+    "Linear Search": [
+        "linear search",
+        "linear-search",
+        "linear_search",
+        "linearsearch"
+    ],
+    "Median Of Medians": [
+        "median of medians",
+        "median-of-medians",
+        "median_of_medians",
+        "medianofmedians"
+    ],
+    "Quick Select": [
+        "quick select",
+        "quick-select",
+        "quick_select",
+        "quickselect"
+    ],
+    "Sentinel Linear Search": [
+        "sentinel linear search",
+        "sentinel-linear-search",
+        "sentinel_linear_search",
+        "sentinellinearsearch"
+    ],
+    "Simple Binary Search": [
+        "simple binary search",
+        "simple-binary-search",
+        "simple_binary_search",
+        "simplebinarysearch"
+    ],
+    "Simulated Annealing": [
+        "simulated annealing",
+        "simulated-annealing",
+        "simulated_annealing",
+        "simulatedannealing"
+    ],
+    "Tabu Search": [
+        "tabu search",
+        "tabu-search",
+        "tabu_search",
+        "tabusearch"
+    ],
+    "Ternary Search": [
+        "ternary search",
+        "ternary-search",
+        "ternary_search",
+        "ternarysearch"
+    ],
+    "Bead Sort": [
+        "bead sort",
+        "bead-sort",
+        "bead_sort",
+        "beadsort"
+    ],
+    "Binary Insertion Sort": [
+        "binary insertion sort",
+        "binary-insertion-sort",
+        "binary_insertion_sort",
+        "binaryinsertionsort"
+    ],
+    "Bitonic Sort": [
+        "bitonic sort",
+        "bitonic-sort",
+        "bitonic_sort",
+        "bitonicsort"
+    ],
+    "Bogo Sort": [
+        "bogo sort",
+        "bogo-sort",
+        "bogo_sort",
+        "bogosort"
+    ],
+    "Bubble Sort": [
+        "bubble sort",
+        "bubble-sort",
+        "bubble_sort",
+        "bubblesort"
+    ],
+    "Bucket Sort": [
+        "bucket sort",
+        "bucket-sort",
+        "bucket_sort",
+        "bucketsort"
+    ],
+    "Circle Sort": [
+        "circle sort",
+        "circle-sort",
+        "circle_sort",
+        "circlesort"
+    ],
+    "Cocktail Shaker Sort": [
+        "cocktail shaker sort",
+        "cocktail-shaker-sort",
+        "cocktail_shaker_sort",
+        "cocktailshakersort"
+    ],
+    "Comb Sort": [
+        "comb sort",
+        "comb-sort",
+        "comb_sort",
+        "combsort"
+    ],
+    "Counting Sort": [
+        "counting sort",
+        "counting-sort",
+        "counting_sort",
+        "countingsort"
+    ],
+    "Cycle Sort": [
+        "cycle sort",
+        "cycle-sort",
+        "cycle_sort",
+        "cyclesort"
+    ],
+    "Cyclic Sort": [
+        "cyclic sort",
+        "cyclic-sort",
+        "cyclic_sort",
+        "cyclicsort"
+    ],
+    "Double Sort": [
+        "double sort",
+        "double-sort",
+        "double_sort",
+        "doublesort"
+    ],
+    "Dutch National Flag Sort": [
+        "dutch national flag sort",
+        "dutch-national-flag-sort",
+        "dutch_national_flag_sort",
+        "dutchnationalflagsort"
+    ],
+    "Exchange Sort": [
+        "exchange sort",
+        "exchange-sort",
+        "exchange_sort",
+        "exchangesort"
+    ],
+    "External Sort": [
+        "external sort",
+        "external-sort",
+        "external_sort",
+        "externalsort"
+    ],
+    "Gnome Sort": [
+        "gnome sort",
+        "gnome-sort",
+        "gnome_sort",
+        "gnomesort"
+    ],
+    "Heap Sort": [
+        "heap sort",
+        "heap-sort",
+        "heap_sort",
+        "heapsort"
+    ],
+    "Insertion Sort": [
+        "insertion sort",
+        "insertion-sort",
+        "insertion_sort",
+        "insertionsort"
+    ],
+    "Intro Sort": [
+        "intro sort",
+        "intro-sort",
+        "intro_sort",
+        "introsort"
+    ],
+    "Iterative Merge Sort": [
+        "iterative merge sort",
+        "iterative-merge-sort",
+        "iterative_merge_sort",
+        "iterativemergesort"
+    ],
+    "Merge Insertion Sort": [
+        "merge insertion sort",
+        "merge-insertion-sort",
+        "merge_insertion_sort",
+        "mergeinsertionsort"
+    ],
+    "Merge Sort": [
+        "merge sort",
+        "merge-sort",
+        "merge_sort",
+        "mergesort"
+    ],
+    "Msd Radix Sort": [
+        "msd radix sort",
+        "msd-radix-sort",
+        "msd_radix_sort",
+        "msdradixsort"
+    ],
+    "Natural Sort": [
+        "natural sort",
+        "natural-sort",
+        "natural_sort",
+        "naturalsort"
+    ],
+    "Odd Even Sort": [
+        "odd even sort",
+        "odd-even-sort",
+        "odd_even_sort",
+        "oddevensort"
+    ],
+    "Odd Even Transposition Parallel": [
+        "odd even transposition parallel",
+        "odd-even-transposition-parallel",
+        "odd_even_transposition_parallel",
+        "oddeventranspositionparallel"
+    ],
+    "Odd Even Transposition Single Threaded": [
+        "odd even transposition single threaded",
+        "odd-even-transposition-single-threaded",
+        "odd_even_transposition_single_threaded",
+        "oddeventranspositionsinglethreaded"
+    ],
+    "Pancake Sort": [
+        "pancake sort",
+        "pancake-sort",
+        "pancake_sort",
+        "pancakesort"
+    ],
+    "Patience Sort": [
+        "patience sort",
+        "patience-sort",
+        "patience_sort",
+        "patiencesort"
+    ],
+    "Pigeon Sort": [
+        "pigeon sort",
+        "pigeon-sort",
+        "pigeon_sort",
+        "pigeonsort"
+    ],
+    "Pigeonhole Sort": [
+        "pigeonhole sort",
+        "pigeonhole-sort",
+        "pigeonhole_sort",
+        "pigeonholesort"
+    ],
+    "Quick Sort": [
+        "quick sort",
+        "quick-sort",
+        "quick_sort",
+        "quicksort"
+    ],
+    "Quick Sort 3 Partition": [
+        "quick sort  3 partition",
+        "quick sort 3 partition",
+        "quick-sort-3-partition",
+        "quick_sort_3_partition",
+        "quicksort3partition"
+    ],
+    "Radix Sort": [
+        "radix sort",
+        "radix-sort",
+        "radix_sort",
+        "radixsort"
+    ],
+    "Recursive Insertion Sort": [
+        "recursive insertion sort",
+        "recursive-insertion-sort",
+        "recursive_insertion_sort",
+        "recursiveinsertionsort"
+    ],
+    "Recursive Mergesort Array": [
+        "recursive mergesort array",
+        "recursive-mergesort-array",
+        "recursive_mergesort_array",
+        "recursivemergesortarray"
+    ],
+    "Recursive Quick Sort": [
+        "recursive quick sort",
+        "recursive-quick-sort",
+        "recursive_quick_sort",
+        "recursivequicksort"
+    ],
+    "Selection Sort": [
+        "selection sort",
+        "selection-sort",
+        "selection_sort",
+        "selectionsort"
+    ],
+    "Shell Sort": [
+        "shell sort",
+        "shell-sort",
+        "shell_sort",
+        "shellsort"
+    ],
+    "Shrink Shell Sort": [
+        "shrink shell sort",
+        "shrink-shell-sort",
+        "shrink_shell_sort",
+        "shrinkshellsort"
+    ],
+    "Slowsort": [
+        "slowsort"
+    ],
+    "Stalin Sort": [
+        "stalin sort",
+        "stalin-sort",
+        "stalin_sort",
+        "stalinsort"
+    ],
+    "Stooge Sort": [
+        "stooge sort",
+        "stooge-sort",
+        "stooge_sort",
+        "stoogesort"
+    ],
+    "Strand Sort": [
+        "strand sort",
+        "strand-sort",
+        "strand_sort",
+        "strandsort"
+    ],
+    "Tim Sort": [
+        "tim sort",
+        "tim-sort",
+        "tim_sort",
+        "timsort"
+    ],
+    "Topological Sort": [
+        "topological sort",
+        "topological-sort",
+        "topological_sort",
+        "topologicalsort"
+    ],
+    "Tree Sort": [
+        "tree sort",
+        "tree-sort",
+        "tree_sort",
+        "treesort"
+    ],
+    "Unknown Sort": [
+        "unknown sort",
+        "unknown-sort",
+        "unknown_sort",
+        "unknownsort"
+    ],
+    "Wiggle Sort": [
+        "wiggle sort",
+        "wiggle-sort",
+        "wiggle_sort",
+        "wigglesort"
+    ],
+    "Aho Corasick": [
+        "aho corasick",
+        "aho-corasick",
+        "aho_corasick",
+        "ahocorasick"
+    ],
+    "Alternative String Arrange": [
+        "alternative string arrange",
+        "alternative-string-arrange",
+        "alternative_string_arrange",
+        "alternativestringarrange"
+    ],
+    "Anagrams": [
+        "anagrams"
+    ],
+    "Autocomplete Using Trie": [
+        "autocomplete using trie",
+        "autocomplete-using-trie",
+        "autocomplete_using_trie",
+        "autocompleteusingtrie"
+    ],
+    "Barcode Validator": [
+        "barcode validator",
+        "barcode-validator",
+        "barcode_validator",
+        "barcodevalidator"
+    ],
+    "Bitap String Match": [
+        "bitap string match",
+        "bitap-string-match",
+        "bitap_string_match",
+        "bitapstringmatch"
+    ],
+    "Boyer Moore Search": [
+        "boyer moore search",
+        "boyer-moore-search",
+        "boyer_moore_search",
+        "boyermooresearch"
+    ],
+    "Camel Case To Snake Case": [
+        "camel case to snake case",
+        "camel-case-to-snake-case",
+        "camel_case_to_snake_case",
+        "camelcasetosnakecase"
+    ],
+    "Can String Be Rearranged As Palindrome": [
+        "can string be rearranged as palindrome",
+        "can-string-be-rearranged-as-palindrome",
+        "can_string_be_rearranged_as_palindrome",
+        "canstringberearrangedaspalindrome"
+    ],
+    "Capitalize": [
+        "capitalize"
+    ],
+    "Check Anagrams": [
+        "check anagrams",
+        "check-anagrams",
+        "check_anagrams",
+        "checkanagrams"
+    ],
+    "Count Vowels": [
+        "count vowels",
+        "count-vowels",
+        "count_vowels",
+        "countvowels"
+    ],
+    "Credit Card Validator": [
+        "credit card validator",
+        "credit-card-validator",
+        "credit_card_validator",
+        "creditcardvalidator"
+    ],
+    "Damerau Levenshtein Distance": [
+        "damerau levenshtein distance",
+        "damerau-levenshtein-distance",
+        "damerau_levenshtein_distance",
+        "dameraulevenshteindistance"
+    ],
+    "Detecting English Programmatically": [
+        "detecting english programmatically",
+        "detecting-english-programmatically",
+        "detecting_english_programmatically",
+        "detectingenglishprogrammatically"
+    ],
+    "Dna": [
+        "dna"
+    ],
+    "Frequency Finder": [
+        "frequency finder",
+        "frequency-finder",
+        "frequency_finder",
+        "frequencyfinder"
+    ],
+    "Hamming Distance": [
+        "hamming distance",
+        "hamming-distance",
+        "hamming_distance",
+        "hammingdistance"
+    ],
+    "Indian Phone Validator": [
+        "indian phone validator",
+        "indian-phone-validator",
+        "indian_phone_validator",
+        "indianphonevalidator"
+    ],
+    "Is Contains Unique Chars": [
+        "is contains unique chars",
+        "is-contains-unique-chars",
+        "is_contains_unique_chars",
+        "iscontainsuniquechars"
+    ],
+    "Is Isogram": [
+        "is isogram",
+        "is-isogram",
+        "is_isogram",
+        "isisogram"
+    ],
+    "Is Pangram": [
+        "is pangram",
+        "is-pangram",
+        "is_pangram",
+        "ispangram"
+    ],
+    "Is Polish National Id": [
+        "is polish national id",
+        "is-polish-national-id",
+        "is_polish_national_id",
+        "ispolishnationalid"
+    ],
+    "Is Spain National Id": [
+        "is spain national id",
+        "is-spain-national-id",
+        "is_spain_national_id",
+        "isspainnationalid"
+    ],
+    "Is Srilankan Phone Number": [
+        "is srilankan phone number",
+        "is-srilankan-phone-number",
+        "is_srilankan_phone_number",
+        "issrilankanphonenumber"
+    ],
+    "Is Valid Email Address": [
+        "is valid email address",
+        "is-valid-email-address",
+        "is_valid_email_address",
+        "isvalidemailaddress"
+    ],
+    "Jaro Winkler": [
+        "jaro winkler",
+        "jaro-winkler",
+        "jaro_winkler",
+        "jarowinkler"
+    ],
+    "Join": [
+        "join"
+    ],
+    "Knuth Morris Pratt": [
+        "kmp",
+        "knuth morris pratt",
+        "knuth-morris-pratt",
+        "knuth_morris_pratt",
+        "knuthmorrispratt"
+    ],
+    "Levenshtein Distance": [
+        "levenshtein distance",
+        "levenshtein-distance",
+        "levenshtein_distance",
+        "levenshteindistance"
+    ],
+    "Lower": [
+        "lower"
+    ],
+    "Manacher": [
+        "manacher"
+    ],
+    "Min Cost String Conversion": [
+        "min cost string conversion",
+        "min-cost-string-conversion",
+        "min_cost_string_conversion",
+        "mincoststringconversion"
+    ],
+    "Naive String Search": [
+        "naive string search",
+        "naive-string-search",
+        "naive_string_search",
+        "naivestringsearch"
+    ],
+    "Ngram": [
+        "ngram"
+    ],
+    "Palindrome": [
+        "palindrome"
+    ],
+    "Pig Latin": [
+        "pig latin",
+        "pig-latin",
+        "pig_latin",
+        "piglatin"
+    ],
+    "Prefix Function": [
+        "prefix function",
+        "prefix-function",
+        "prefix_function",
+        "prefixfunction"
+    ],
+    "Rabin Karp": [
+        "rabin karp",
+        "rabin-karp",
+        "rabin_karp",
+        "rabinkarp"
+    ],
+    "Remove Duplicate": [
+        "remove duplicate",
+        "remove-duplicate",
+        "remove_duplicate",
+        "removeduplicate"
+    ],
+    "Reverse Letters": [
+        "reverse letters",
+        "reverse-letters",
+        "reverse_letters",
+        "reverseletters"
+    ],
+    "Reverse Words": [
+        "reverse words",
+        "reverse-words",
+        "reverse_words",
+        "reversewords"
+    ],
+    "Snake Case To Camel Pascal Case": [
+        "snake case to camel pascal case",
+        "snake-case-to-camel-pascal-case",
+        "snake_case_to_camel_pascal_case",
+        "snakecasetocamelpascalcase"
+    ],
+    "Split": [
+        "split"
+    ],
+    "String Switch Case": [
+        "string switch case",
+        "string-switch-case",
+        "string_switch_case",
+        "stringswitchcase"
+    ],
+    "Strip": [
+        "strip"
+    ],
+    "Text Justification": [
+        "text justification",
+        "text-justification",
+        "text_justification",
+        "textjustification"
+    ],
+    "Title": [
+        "title"
+    ],
+    "Top K Frequent Words": [
+        "top k frequent words",
+        "top-k-frequent-words",
+        "top_k_frequent_words",
+        "topkfrequentwords"
+    ],
+    "Upper": [
+        "upper"
+    ],
+    "Wave String": [
+        "wave string",
+        "wave-string",
+        "wave_string",
+        "wavestring"
+    ],
+    "Wildcard Pattern Matching": [
+        "wildcard pattern matching",
+        "wildcard-pattern-matching",
+        "wildcard_pattern_matching",
+        "wildcardpatternmatching"
+    ],
+    "Word Occurrence": [
+        "word occurrence",
+        "word-occurrence",
+        "word_occurrence",
+        "wordoccurrence"
+    ],
+    "Word Patterns": [
+        "word patterns",
+        "word-patterns",
+        "word_patterns",
+        "wordpatterns"
+    ],
+    "Z Function": [
+        "z function",
+        "z-function",
+        "z_function",
+        "zfunction"
+    ],
+    "Co2 Emission": [
+        "co 2 emission",
+        "co two emission",
+        "co2 emission",
+        "co2-emission",
+        "co2_emission",
+        "co2emission"
+    ],
+    "Covid Stats Via Xpath": [
+        "covid stats via xpath",
+        "covid-stats-via-xpath",
+        "covid_stats_via_xpath",
+        "covidstatsviaxpath"
+    ],
+    "Crawl Google Results": [
+        "crawl google results",
+        "crawl-google-results",
+        "crawl_google_results",
+        "crawlgoogleresults"
+    ],
+    "Crawl Google Scholar Citation": [
+        "crawl google scholar citation",
+        "crawl-google-scholar-citation",
+        "crawl_google_scholar_citation",
+        "crawlgooglescholarcitation"
+    ],
+    "Currency Converter": [
+        "currency converter",
+        "currency-converter",
+        "currency_converter",
+        "currencyconverter"
+    ],
+    "Current Stock Price": [
+        "current stock price",
+        "current-stock-price",
+        "current_stock_price",
+        "currentstockprice",
+        "stock price"
+    ],
+    "Current Weather": [
+        "current weather",
+        "current-weather",
+        "current_weather",
+        "currentweather",
+        "weather"
+    ],
+    "Daily Horoscope": [
+        "daily horoscope",
+        "daily-horoscope",
+        "daily_horoscope",
+        "dailyhoroscope"
+    ],
+    "Download Images From Google Query": [
+        "download images from google query",
+        "download-images-from-google-query",
+        "download_images_from_google_query",
+        "downloadimagesfromgooglequery"
+    ],
+    "Emails From Url": [
+        "emails from url",
+        "emails-from-url",
+        "emails_from_url",
+        "emailsfromurl"
+    ],
+    "Fetch Anime And Play": [
+        "fetch anime and play",
+        "fetch-anime-and-play",
+        "fetch_anime_and_play",
+        "fetchanimeandplay"
+    ],
+    "Fetch Bbc News": [
+        "fetch bbc news",
+        "fetch-bbc-news",
+        "fetch_bbc_news",
+        "fetchbbcnews"
+    ],
+    "Fetch Github Info": [
+        "fetch github info",
+        "fetch-github-info",
+        "fetch_github_info",
+        "fetchgithubinfo"
+    ],
+    "Fetch Jobs": [
+        "fetch jobs",
+        "fetch-jobs",
+        "fetch_jobs",
+        "fetchjobs"
+    ],
+    "Fetch Quotes": [
+        "fetch quotes",
+        "fetch-quotes",
+        "fetch_quotes",
+        "fetchquotes"
+    ],
+    "Fetch Well Rx Price": [
+        "fetch well rx price",
+        "fetch-well-rx-price",
+        "fetch_well_rx_price",
+        "fetchwellrxprice"
+    ],
+    "Get Amazon Product Data": [
+        "get amazon product data",
+        "get-amazon-product-data",
+        "get_amazon_product_data",
+        "getamazonproductdata"
+    ],
+    "Get Imdb Top 250 Movies Csv": [
+        "get imdb top  250 movies csv",
+        "get imdb top  two50 movies csv",
+        "get imdb top 250 movies csv",
+        "get-imdb-top-250-movies-csv",
+        "get_imdb_top_250_movies_csv",
+        "getimdbtop250moviescsv"
+    ],
+    "Get Ip Geolocation": [
+        "get ip geolocation",
+        "get-ip-geolocation",
+        "get_ip_geolocation",
+        "getipgeolocation"
+    ],
+    "Get Top Billionaires": [
+        "get top billionaires",
+        "get-top-billionaires",
+        "get_top_billionaires",
+        "gettopbillionaires"
+    ],
+    "Get Top Hn Posts": [
+        "get top hn posts",
+        "get-top-hn-posts",
+        "get_top_hn_posts",
+        "gettophnposts"
+    ],
+    "Giphy": [
+        "giphy"
+    ],
+    "Instagram Crawler": [
+        "instagram crawler",
+        "instagram-crawler",
+        "instagram_crawler",
+        "instagramcrawler"
+    ],
+    "Instagram Pic": [
+        "instagram pic",
+        "instagram-pic",
+        "instagram_pic",
+        "instagrampic"
+    ],
+    "Instagram Video": [
+        "instagram video",
+        "instagram-video",
+        "instagram_video",
+        "instagramvideo"
+    ],
+    "Nasa Data": [
+        "nasa data",
+        "nasa-data",
+        "nasa_data",
+        "nasadata"
+    ],
+    "Open Google Results": [
+        "open google results",
+        "open-google-results",
+        "open_google_results",
+        "opengoogleresults"
+    ],
+    "Random Anime Character": [
+        "random anime character",
+        "random-anime-character",
+        "random_anime_character",
+        "randomanimecharacter"
+    ],
+    "Recaptcha Verification": [
+        "recaptcha verification",
+        "recaptcha-verification",
+        "recaptcha_verification",
+        "recaptchaverification"
+    ],
+    "Reddit": [
+        "reddit"
+    ],
+    "Search Books By Isbn": [
+        "search books by isbn",
+        "search-books-by-isbn",
+        "search_books_by_isbn",
+        "searchbooksbyisbn"
+    ],
+    "Slack Message": [
+        "slack message",
+        "slack-message",
+        "slack_message",
+        "slackmessage"
+    ],
+    "Test Fetch Github Info": [
+        "test fetch github info",
+        "test-fetch-github-info",
+        "test_fetch_github_info",
+        "testfetchgithubinfo"
+    ],
+    "World Covid19 Stats": [
+        "world covid19 stats",
+        "world-covid19-stats",
+        "world_covid19_stats",
+        "worldcovid19stats"
+    ]
+}

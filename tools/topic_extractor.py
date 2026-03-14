@@ -22,6 +22,9 @@ import re
 with open("/Users/aliyakubatli/ai_module/topics/topic_mapping.json", "r") as f:
     topic_mapping = json.load(f)
 
+with open("/Users/aliyakubatli/ai_module/topics/topic_aliases.json", "r") as f:
+    topic_aliases = json.load(f)
+
 
 def extract_topics(raw_text: str) -> dict[str, list[str]]:
 
@@ -39,7 +42,15 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
         # Remove empty values and extra spaces
         parts = [p.strip() for p in parts if p.strip()]
 
+        for i, part in enumerate(parts):
+            norm_part = part.lower()
+            # Check if the part matches any known topic alias
+            for canonical, aliases in topic_aliases.items():
+                if norm_part in aliases:
+                    parts[i] = canonical  # Replace with canonical topic name
+                    break
         # Match extracted parts with known topic lists
+
         return match_topics(parts) # type: ignore
 
     else:
@@ -77,8 +88,24 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
     if not all(isinstance(item, str) for item in topics_json["specific_topics"]) or not all(isinstance(item, str) for item in topics_json["general_topics"]): # type: ignore
         raise ValueError("All topics must be strings")
     
+    
+    
+    
     specific_topics = topics_json.get("specific_topics", [])  # type: ignore
     general_topics = topics_json.get("general_topics", [])    # type: ignore
+
+    for i, topic in enumerate(specific_topics):  # type: ignore
+        for canonical, aliases in topic_aliases.items():
+            if topic.lower() in aliases:
+                specific_topics[i] = canonical
+                break
+
+    for i, topic in enumerate(general_topics):  # type: ignore
+        for canonical, aliases in topic_aliases.items():
+            if topic.lower() in aliases:
+                general_topics[i] = canonical
+                break
+
 
     specific_keys= set(topic_mapping.keys()) # type: ignore
     general_keys = set(topic_mapping.values())
@@ -103,13 +130,6 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
             if topic not in corrected_general_topics:
                 corrected_general_topics.append(topic) # type: ignore
 
-
-    if specific_topics and general_topics:
-        # If a topic appears in both specific_topics and general_topics, keep it only in general_topics
-        specific_topics = [ 
-            topic for topic in specific_topics  # type: ignore
-            if topic not in general_topics
-        ]
 
 
 

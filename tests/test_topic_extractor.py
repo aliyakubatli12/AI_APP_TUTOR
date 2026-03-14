@@ -12,25 +12,23 @@ Each string simulates a possible user input and the script prints:
 
 tests = [
 
-    
-    "BFS\nDFS\nDynamic Programming",
-    "Bubble Sort; Quick Sort; Merge Sort",
-    "Binary Search | Linear Search | Jump Search",
-    "Stack / Queue / Linked List",
-    "BFS\nMerge Sort; Dijkstra | Prime Check",
-    "Today we studied BFS and DFS in class",
-    "We covered sorting algorithms and discussed their complexity",
-    "I learned about dynamic programming and it was hard",
-    "He is studying graph algorithms these days",
-    "The team was working on search algorithms yesterday",
-    "Bubble Sort",
-    "",
-    "123\n456\n789",
-    "BFS\nDFS",
-    "We studied Bubble Sort\nQuick Sort\nMerge Sort\nDijkstra",
-    "Today we studied the fundamentals of graph theory\nBFS\nDFS",
-    "Breadth First Search Algorithm\nDepth First Search Algorithm\nBubble Sort",
-    "BFS\nDFS\nDijkstra\nBellman Ford\nA Star\nFloyd Warshall\nPrim\nKruskal",
+
+"BFS\nQuick Sort\nLinear Regression",
+"dfs; bubble sort; knn",
+"Bugün BFS ve Dijkstra çalıştım",
+"Today I studied bfs, dfs and kmp algorithm",
+"We covered sorting: bubble sort, merge sort, quick sort",
+"rsa | morse | caesar cipher",
+"Stack\nQueue By List\nCircular Queue",
+"pca\nsvm\nrelu\nlstm",
+"Minimum Spanning Tree\nKruskal\nPrim",
+"I learned dynamic programming today, specifically knapsack and fibonacci",
+"binary search | bst | avl tree",
+"Graph algorithms: dijkstra, bellman ford, a*",
+"n queens; sudoku; word search",
+"matrix multiplication\nrotate matrix\nspiral print",
+"We studied neural networks, cnn and backpropagation",
+
 
 
     
