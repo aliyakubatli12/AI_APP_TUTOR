@@ -80,19 +80,28 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
     specific_topics = topics_json.get("specific_topics", [])  # type: ignore
     general_topics = topics_json.get("general_topics", [])    # type: ignore
 
-    specific_keys= set(topic_mapping.keys())
+    specific_keys= set(topic_mapping.keys()) # type: ignore
     general_keys = set(topic_mapping.values())
 
     corrected_specific_topics = []
-    corrected_general_topics = list(general_topics)  # Start with original general topics    
+    corrected_general_topics = list(general_topics)  # type: ignore # Start with original general topics    
    
     #if llm puts general topic to specific topic but it is in general topics
-    for topic in specific_topics:
+    for topic in specific_topics: # type: ignore
         if topic in general_keys:
             if topic not in corrected_general_topics:
-                corrected_general_topics.append(topic)
+                corrected_general_topics.append(topic) # type: ignore
         else:
-            corrected_specific_topics.append(topic)
+            corrected_specific_topics.append(topic) # type: ignore
+    #if llm puts specific topic to general topic but it is in specific topics
+    for topic in general_topics:#  type: ignore
+        if topic in specific_keys:
+            if topic not in corrected_specific_topics:
+                corrected_specific_topics.append(topic) # type: ignore
+            corrected_general_topics.remove(topic)  # type: ignore
+        else:
+            if topic not in corrected_general_topics:
+                corrected_general_topics.append(topic) # type: ignore
 
 
     if specific_topics and general_topics:
@@ -105,4 +114,4 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
 
 
     # Return validated topic dictionary
-    return {"specific_topics": specific_topics, "general_topics": general_topics}  # type: ignore
+    return {"specific_topics": corrected_specific_topics, "general_topics": corrected_general_topics}  # type: ignore
