@@ -74,7 +74,6 @@
         "knight_tour",
         "knighttour"
     ],
- 
     "Match Word Pattern": [
         "match word pattern",
         "match-word-pattern",
@@ -2614,12 +2613,6 @@
         "minimum_path_sum",
         "minimumpathsum"
     ],
-    "Minimum Spanning Tree": [
-        "minimum spanning tree ",
-        "minimum-spanning-tree-",
-        "minimum_spanning_tree",
-        "minimumspanningtree"
-    ],
     "Minimum Spanning Tree Boruvka": [
         "minimum spanning tree boruvka",
         "minimum-spanning-tree-boruvka",
@@ -2627,7 +2620,9 @@
         "minimumspanningtreeboruvka"
     ],
     "Minimum Spanning Tree Kruskal": [
+        "kruskal",
         "kruskal mst",
+        "minimum spanning tree",
         "minimum spanning tree kruskal",
         "minimum-spanning-tree-kruskal",
         "minimum_spanning_tree_kruskal",
@@ -2648,7 +2643,8 @@
         "minimum_spanning_tree_prims",
         "minimumspanningtreeprims",
         "mst prim",
-        "prim mst"
+        "prim mst",
+        "prims"
     ],
     "Minimum Spanning Tree Prims2": [
         "minimum spanning tree prims 2",
