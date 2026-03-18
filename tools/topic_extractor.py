@@ -12,6 +12,7 @@ from prompts.topic_prompt import build_topic_prompt
 from .topic_regex_finder import looks_like_topic_list 
 from .topic_matching import match_topics
 import re
+import os
 
 # Main function to extract topics from raw text
 # Example input:
@@ -19,12 +20,16 @@ import re
 # or
 # "Today we studied BFS and Dijkstra's algorithm"
 
-with open("/Users/aliyakubatli/ai_module/topics/topic_mapping.json", "r") as f:
-    topic_mapping = json.load(f)
+current_dir = os.path.dirname(os.path.abspath(__file__))
 
-with open("/Users/aliyakubatli/ai_module/topics/topic_aliases.json", "r") as f:
-    topic_aliases = json.load(f)
+json_path = os.path.join(current_dir, "topic_mapping.json")
 
+try:
+    with open(json_path, "r", encoding="utf-8") as f:
+        topic_mapping = json.load(f)
+except FileNotFoundError:
+    print(f"ERROR: {json_path} file not found!")
+    topic_mapping = {}
 
 def extract_topics(raw_text: str) -> dict[str, list[str]]:
 
