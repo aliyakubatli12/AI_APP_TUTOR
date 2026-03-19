@@ -1,10 +1,4 @@
-"""
-Extracts computer science topics from raw text.
 
-Uses a two-stage approach:
-1. If the text looks like a simple topic list → regex + dictionary matching.
-2. Otherwise → calls an LLM to extract topics and validates the JSON output.
-"""
 
 import json
 from tools.llm_client import call_llm
@@ -22,7 +16,7 @@ import os
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
-json_path = os.path.join(current_dir, "topic_mapping.json")
+json_path = os.path.join(current_dir, "..", "topics", "topic_mapping.json")
 
 try:
     with open(json_path, "r", encoding="utf-8") as f:
@@ -30,6 +24,15 @@ try:
 except FileNotFoundError:
     print(f"ERROR: {json_path} file not found!")
     topic_mapping = {}
+
+aliases_path = os.path.join(current_dir, "..", "topics", "topic_aliases.json")
+
+try:
+    with open(aliases_path, "r", encoding="utf-8") as f:
+        topic_aliases = json.load(f)
+except FileNotFoundError:
+    print(f"ERROR: {aliases_path} file not found!")
+    topic_aliases = {}
 
 def extract_topics(raw_text: str) -> dict[str, list[str]]:
 

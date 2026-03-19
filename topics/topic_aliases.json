@@ -1286,6 +1286,7 @@
         "prime_numbers",
         "primenumbers"
     ],
+    
     "Quadratic Probing": [
         "quadratic probing",
         "quadratic-probing",
@@ -2637,15 +2638,18 @@
         "minimum_spanning_tree_kruskal2",
         "minimumspanningtreekruskal2"
     ],
-    "Minimum Spanning Tree Prims": [
-        "minimum spanning tree prims",
-        "minimum-spanning-tree-prims",
-        "minimum_spanning_tree_prims",
-        "minimumspanningtreeprims",
+    "Minimum Spanning Tree Prim": [
+        "minimum spanning tree prim",
+        "minimum-spanning-tree-prim",
+        "minimum_spanning_tree_prim",
+        "minimumspanningtreeprim",
         "mst prim",
         "prim mst",
-        "prims"
+        "prims",
+        "prim"
     ],
+    
+    
     "Minimum Spanning Tree Prims2": [
         "minimum spanning tree prims 2",
         "minimum spanning tree prims two",
@@ -2666,11 +2670,7 @@
         "page_rank",
         "pagerank"
     ],
-    "Prim": [
-        "prim",
-        "prim s",
-        "prims"
-    ],
+   
     "Random Graph Generator": [
         "random graph generator",
         "random-graph-generator",
@@ -2699,13 +2699,15 @@
         "test min spanning tree kruskal",
         "test-min-spanning-tree-kruskal",
         "test_min_spanning_tree_kruskal",
-        "testminspanningtreekruskal"
+        "testminspanningtreekruskal",
+        "test kruskal"
     ],
     "Test Min Spanning Tree Prim": [
         "test min spanning tree prim",
         "test-min-spanning-tree-prim",
         "test_min_spanning_tree_prim",
-        "testminspanningtreeprim"
+        "testminspanningtreeprim",
+        "test prim"
     ],
     "Best Time To Buy And Sell Stock": [
         "best time to buy and sell stock",
@@ -2850,6 +2852,11 @@
         "lu-decomposition",
         "lu_decomposition",
         "ludecomposition"
+    ],
+    "Matrix Multiplication": [
+    "matrix multiplication",
+    "matrix-multiplication",
+    "matrix_multiplication"
     ],
     "Matrix Inversion": [
         "matrix inversion",
