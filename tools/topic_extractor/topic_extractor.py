@@ -1,7 +1,7 @@
 
 
 import json
-from tools.llm_client import call_llm
+from llm_client import call_llm
 from prompts.topic_prompt import build_topic_prompt
 from .topic_regex_finder import looks_like_topic_list 
 from .topic_matching import match_topics

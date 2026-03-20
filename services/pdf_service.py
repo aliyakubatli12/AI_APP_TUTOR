@@ -1,7 +1,7 @@
 import pdfplumber
 import io
 import os
-from tools.llm_client import call_llm, call_vision_llm
+from llm_client import call_llm, call_vision_llm
 from prompts.topic_prompt import build_topic_prompt
 
 class PDFProcessingService:

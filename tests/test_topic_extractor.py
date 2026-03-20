@@ -1,4 +1,4 @@
-from tools.topic_extractor import extract_topics
+from tools.topic_extractor.topic_extractor import extract_topics
 
 """
 Runs multiple test inputs through the topic extraction pipeline.

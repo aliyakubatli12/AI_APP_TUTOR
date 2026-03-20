@@ -3,7 +3,7 @@ Runs the topic extraction pipeline on sample input text
 and prints detected specific and general topics.
 """
 
-from tools.topic_extractor import extract_topics
+from tools.topic_extractor.topic_extractor import extract_topics
 
 
 def run_pipeline(raw_text: str) -> dict[str, list[str]]:

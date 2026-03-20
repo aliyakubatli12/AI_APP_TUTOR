@@ -1,6 +1,6 @@
 from fastapi import APIRouter, UploadFile, File, HTTPException
 from services.pdf_service import PDFProcessingService
-from tools.topic_extractor import extract_topics
+from tools.topic_extractor.topic_extractor import extract_topics
 import json
 
 router = APIRouter()

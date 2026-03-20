@@ -1,6 +1,6 @@
 import json
 import re
-from .normalize_topic import normalize_topic
+from ..normalazation.normalize_topic import normalize_topic
 
 TOPICS = [
     "Butterworth Filter",
