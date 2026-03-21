@@ -13,7 +13,7 @@ def build_generation_request(result, selected_specific_topic, difficulty):
         raise ValueError("No general topic found")
 
     return {
-        "general_topic": general_topics[0],   # MVP: ilkini al
+        "general_topic": general_topics[0],   
         "specific_topic": selected_specific_topic,
         "difficulty": difficulty,
         "question_count": 3

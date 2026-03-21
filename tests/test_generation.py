@@ -1,7 +1,9 @@
 from prompts.question_generator import generate_question_response
 from llm_client import call_llm
 from services.generation_request import build_generation_request
-from tools.clean_json import clean_llm_json
+from tools.normalazation.clean_json import clean_llm_json
+from prompts.reviewer import build_reviewer_prompt
+from prompts.revision_generator import build_revision_prompt
 
 import json
 import re
@@ -53,12 +55,39 @@ def test_generation(result, selected_topic, difficulty):
     else:
         raise ValueError(f"Invalid difficulty: {difficulty}")
 
+     # 1) First generation
     raw_response = call_llm(prompt, temperature=temperature)
+    print("Generator Raw Response:\n", raw_response)
 
-    print("Raw LLM Response:\n", raw_response)
+    # 2) Build reviewer prompt
+    reviewer_prompt = build_reviewer_prompt(raw_response, selected_topic, difficulty)
 
-    questions = parse_llm_questions(raw_response)
-    return questions
+    # 3) Call reviewer
+    review_response = call_llm(reviewer_prompt, temperature=0.2)
+    print("Reviewer Raw Response:\n", review_response)
+
+    # 4) Parse reviewer output
+    import json
+    try:
+        review = json.loads(review_response)
+    except json.JSONDecodeError:
+        raise ValueError("Reviewer output is not valid JSON.")
+
+    # 5) If accepted, return original generated questions
+    if review["status"] == "accepted":
+        return parse_llm_questions(raw_response)
+
+    # 6) If revise or rejected, build revision prompt
+    revision_prompt = build_revision_prompt(request, review)
+
+    # 7) Call generator again with revision prompt
+    revised_response = call_llm(revision_prompt, temperature=temperature)
+    print("Revised Raw Response:\n", revised_response)
+
+    return revised_response
+
+
+    
 
 
 if __name__ == "__main__":
