@@ -19,5 +19,5 @@ async def health_check():
     return {"status": "running", "service": "AI_APP_TUTOR"}
 
 if __name__ == "__main__":
-    # reload=True: The server will automatically restart when code changes are detected
-    uvicorn.run("app_main:app", host="127.0.0.1", port=8000, reload=True)
+    # host="0.0.0.0" yapılması Docker erişimi için zorunludur
+    uvicorn.run("app_main:app", host="0.0.0.0", port=8000, reload=True)
