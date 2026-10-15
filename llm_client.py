@@ -12,7 +12,7 @@ API_KEY = os.getenv("GROQ_API_KEY")
 URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
-def call_llm(prompt: str, model: str = "llama-3.1-8b-instant", temperature: float = 0.2) -> str:
+def call_llm(prompt: str, model: str = "openai/gpt-oss-20b", temperature: float = 0.2) -> str:
 
     if not API_KEY:
         raise ValueError("GROQ_API_KEY not found")
