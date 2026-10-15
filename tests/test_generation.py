@@ -40,7 +40,41 @@ def parse_llm_questions(raw_response: str):
     return questions
 
 
-def test_generation(result, selected_topic, difficulty):
+MAX_REVIEW_ROUNDS = 3
+
+
+class QuestionsRejectedError(Exception):
+    """Raised when the reviewer still rejects the questions after max_rounds."""
+
+    def __init__(self, issues):
+        self.issues = issues
+        super().__init__("Questions rejected by reviewer: " + "; ".join(issues))
+
+
+def review_questions(raw_response: str, selected_topic: str, difficulty: str) -> dict:
+    """Ask the reviewer LLM to judge the questions; returns {"status", "issues"}."""
+    reviewer_prompt = build_reviewer_prompt(raw_response, selected_topic, difficulty)
+    review_response = call_llm(reviewer_prompt, temperature=0.2)
+    print("Reviewer Raw Response:\n", review_response)
+
+    try:
+        review = json.loads(extract_json_object(clean_llm_json(review_response)))
+    except (ValueError, json.JSONDecodeError):
+        raise ValueError(f"Reviewer output is not valid JSON:\n{review_response}")
+
+    if review.get("status") not in {"accepted", "revise", "rejected"}:
+        raise ValueError(f"Unexpected reviewer status: {review.get('status')}")
+    review.setdefault("issues", [])
+    return review
+
+
+def test_generation(result, selected_topic, difficulty, max_rounds: int = MAX_REVIEW_ROUNDS):
+    """Generator -> reviewer -> reviser loop.
+
+    Each round the reviewer checks the latest questions. If they are accepted
+    they are returned; otherwise the reviser rewrites them from the reviewer's
+    issues and the new version is reviewed again, up to max_rounds reviews.
+    """
     request = build_generation_request(result, selected_topic, difficulty)
     prompt = generate_question_response(request)
 
@@ -55,39 +89,47 @@ def test_generation(result, selected_topic, difficulty):
     else:
         raise ValueError(f"Invalid difficulty: {difficulty}")
 
-     # 1) First generation
+    # 1) First generation
     raw_response = call_llm(prompt, temperature=temperature)
     print("Generator Raw Response:\n", raw_response)
 
-    # 2) Build reviewer prompt
-    reviewer_prompt = build_reviewer_prompt(raw_response, selected_topic, difficulty)
+    review = {"status": "revise", "issues": []}
+    for round_no in range(1, max_rounds + 1):
+        # 2) Review the latest version
+        review = review_questions(raw_response, selected_topic, difficulty)
+        print(f"Round {round_no}: {review['status']} ({len(review['issues'])} issues)")
 
-    # 3) Call reviewer
-    review_response = call_llm(reviewer_prompt, temperature=0.2)
-    print("Reviewer Raw Response:\n", review_response)
+        # 3) Accepted -> done
+        if review["status"] == "accepted":
+            return {
+                "approved": True,
+                "rounds": round_no,
+                "questions": parse_llm_questions(raw_response),
+                "issues": [],
+            }
 
-    # 4) Parse reviewer output
-    import json
-    try:
-        review = json.loads(review_response)
-    except json.JSONDecodeError:
-        raise ValueError("Reviewer output is not valid JSON.")
+        # 4) Last round used up -> stop revising
+        if round_no == max_rounds:
+            break
 
-    # 5) If accepted, return original generated questions
-    if review["status"] == "accepted":
-        return parse_llm_questions(raw_response)
+        # 5) Revise using the reviewer's issues, then loop back to review
+        revision_prompt = build_revision_prompt(request, review)
+        raw_response = call_llm(revision_prompt, temperature=temperature)
+        print("Revised Raw Response:\n", raw_response)
 
-    # 6) If revise or rejected, build revision prompt
-    revision_prompt = build_revision_prompt(request, review)
+    # Never approved within max_rounds.
+    # Rejected output is never shown to the user.
+    if review["status"] == "rejected":
+        raise QuestionsRejectedError(review["issues"])
 
-    # 7) Call generator again with revision prompt
-    revised_response = call_llm(revision_prompt, temperature=temperature)
-    print("Revised Raw Response:\n", revised_response)
-
-    return revised_response
-
-
-    
+    # "revise" on the last round: return it, but clearly marked as not approved.
+    print(f"Max review rounds ({max_rounds}) reached without approval.")
+    return {
+        "approved": False,
+        "rounds": max_rounds,
+        "questions": parse_llm_questions(raw_response),
+        "issues": review["issues"],
+    }
 
 
 if __name__ == "__main__":
@@ -98,9 +140,20 @@ if __name__ == "__main__":
 
     difficulty = "Medium"
 
-    questions = test_generation(result, "Kruskal", difficulty)
+    try:
+        output = test_generation(result, "Kruskal", difficulty)
+    except QuestionsRejectedError as e:
+        print("\nQuestions were rejected and will not be shown.")
+        for issue in e.issues:
+            print(" -", issue)
+        raise SystemExit(1)
 
-    for i, q in enumerate(questions, start=1):
+    if not output["approved"]:
+        print("\nWARNING: not approved by the reviewer. Open issues:")
+        for issue in output["issues"]:
+            print(" -", issue)
+
+    for i, q in enumerate(output["questions"], start=1):
         print(f"\nQuestion {i}:")
         print("Title:", q.get("title", "Untitled"))
         print("Text:", q.get("question_text", ""))

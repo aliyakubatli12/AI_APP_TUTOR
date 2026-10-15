@@ -65,14 +65,14 @@ Style Guidance:
 - Avoid unnecessary complexity unless explicitly required.
 
 Return JSON in the following format:
-{
+{{
   "questions": [
     {{
       "title": "...",
       "question_text": "..."
     }}
   ]
-}
+}}
 
 Output Requirements:
 - Return strictly valid JSON only.
