@@ -43,11 +43,18 @@ def parse_llm_questions(raw_response: str):
 MAX_REVIEW_ROUNDS = 3
 
 
+USER_REJECTED_MESSAGE = (
+    "We couldn't generate good enough questions for this topic right now. "
+    "Please try again, or choose a different topic or difficulty."
+)
+
+
 class QuestionsRejectedError(Exception):
     """Raised when the reviewer still rejects the questions after max_rounds."""
 
     def __init__(self, issues):
         self.issues = issues
+        self.user_message = USER_REJECTED_MESSAGE   # safe to show to the user
         super().__init__("Questions rejected by reviewer: " + "; ".join(issues))
 
 
@@ -143,7 +150,8 @@ if __name__ == "__main__":
     try:
         output = test_generation(result, "Kruskal", difficulty)
     except QuestionsRejectedError as e:
-        print("\nQuestions were rejected and will not be shown.")
+        print("\n" + e.user_message)              # message for the user
+        print("\n[debug] Reviewer issues:")       # details for the developer
         for issue in e.issues:
             print(" -", issue)
         raise SystemExit(1)
