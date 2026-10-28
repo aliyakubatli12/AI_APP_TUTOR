@@ -36,16 +36,26 @@ flowchart LR
   - `accepted` → questions are returned (`approved: true`).
   - still `revise` after 3 rounds → the latest version is returned, marked `approved: false` with the open issues.
   - still `rejected` after 3 rounds → nothing is shown; a `QuestionsRejectedError` is raised.
+- Each request is also capped by total LLM calls and total seconds (`config/llm_steps.json` → `pipeline`); hitting a cap raises `RequestBudgetExceededError` with a user-facing message.
+
+### LLM gateway, config and traces
+
+- Every text LLM call goes through `llm_client.call_llm`: per-call timeout, retry with exponential backoff + jitter on 429 / 5xx / timeouts (no retry on other 4xx), and a log line with step, model, temperature, tokens and duration.
+- Model, temperature, timeout and retry settings per step (`topic_extraction`, `generator`, `reviewer`, `reviser`) live in `config/llm_steps.json`. Changing a model is a config change.
+- Each question-generation request writes `traces/<trace_id>.jsonl`: the request, each step's output, parse result, reviewer status and issues per round, and the final result. The `trace_id` is returned with the questions.
 
 ## Project structure
 
 ```
 app_main.py                     FastAPI app
 api_router.py                   POST /api/v1/analyze-pdf
-llm_client.py                   LLM calls (Groq, OpenAI-compatible API)
+llm_client.py                   LLM gateway (Groq, OpenAI-compatible API): timeout, retry, logging
+config/llm_steps.json           Per-step model / temperature / retry settings and request limits
 services/
   pdf_service.py                PDF → text (text extraction / OCR / vision fallback)
   generation_request.py         Validates topic + difficulty into a generation request
+  question_pipeline.py          Generator → reviewer → reviser loop
+  trace.py                      Per-request JSONL trace
 prompts/
   topic_prompt.py               Topic extraction prompt
   question_generator.py         Generator prompt
@@ -56,7 +66,8 @@ tools/
   normalazation/                Topic / JSON normalization helpers
 topics/                         Topic dictionary, mapping, aliases, topic tree
 tests/
-  test_generation.py            Generator → reviewer → reviser loop
+  test_generation.py            Manual run of the question pipeline
+  test_llm_client.py            Offline tests: retry, config, trace, request limits
 ```
 
 ## Setup
@@ -87,6 +98,11 @@ docker compose up --build
 **Question generation loop:**
 ```bash
 python3 -m tests.test_generation
+```
+
+**Offline tests (no API key needed):**
+```bash
+python3 -m pytest tests/test_llm_client.py
 ```
 
 **Topic extraction only:**

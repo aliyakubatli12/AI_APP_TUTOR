@@ -69,8 +69,8 @@ def extract_topics(raw_text: str) -> dict[str, list[str]]:
         # The prompt instructs the model to extract topics
         prompt = build_topic_prompt(raw_text)
 
-        # Call LLM with deterministic output
-        content = call_llm(prompt, temperature=0.0)
+        # Call LLM; model and temperature (0.0, deterministic) come from config/llm_steps.json
+        content = call_llm(prompt, step="topic_extraction")
 
         try:
             # Convert model response from JSON string to Python dict

@@ -1,0 +1,37 @@
+{
+  "defaults": {
+    "model": "openai/gpt-oss-20b",
+    "temperature": 0.2,
+    "timeout_seconds": 30,
+    "max_retries": 3,
+    "backoff_base_seconds": 1.0,
+    "backoff_max_seconds": 20.0
+  },
+  "steps": {
+    "topic_extraction": {
+      "temperature": 0.0
+    },
+    "generator": {
+      "temperature_by_difficulty": {
+        "easy": 0.3,
+        "medium": 0.5,
+        "hard": 0.7
+      }
+    },
+    "reviewer": {
+      "temperature": 0.2
+    },
+    "reviser": {
+      "temperature_by_difficulty": {
+        "easy": 0.3,
+        "medium": 0.5,
+        "hard": 0.7
+      }
+    }
+  },
+  "pipeline": {
+    "max_review_rounds": 3,
+    "max_llm_calls_per_request": 8,
+    "max_seconds_per_request": 180
+  }
+}
